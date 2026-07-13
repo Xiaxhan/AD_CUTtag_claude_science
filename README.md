@@ -16,6 +16,17 @@ The analysis demonstrates how Claude Science can support biological interpretati
 * `output/`: selected reports, figures, and summarized results
 * `Project.md`: project instructions, analysis plan, and Claude Science workflow
 
+## Key outputs
+
+1. **Complete analysis summary:** [`output/REPORT.md`](output/REPORT.md)  
+   Documents the full analysis workflow, results, and initial biological interpretation.
+
+2. **Critical review and target prioritization:** [`output/AD_CRE_story_summary.md`](output/AD_CRE_story_summary.md)  
+   Refines the biological interpretation and prioritizes candidate genes and regulatory elements for experimental validation.
+
+3. **Grant proposal strategy:** [`output/grant_strategy_memo.md`](output/grant_strategy_memo.md)  
+   Translates the findings into a mechanistically focused research question, specific aims, experimental strategy, and testable predictions.
+   
 ## Data availability
 
 The publicly available single-nucleus CUT&Tag data used in this project were downloaded from Synapse under accession **syn53191971**:
