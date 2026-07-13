@@ -1,0 +1,23 @@
+# Large project folders
+input/
+output/cache/
+tmp/
+
+# Common large genomics files
+*.rds
+*.RDS
+
+# Large output files
+output/CRE_atlas_H3K27ac.csv
+output/DE_results_all.csv.gz
+output/DE_results_annotated.csv.gz
+output/Rlib/
+
+
+
+
+
+
+
+
+

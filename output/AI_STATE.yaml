@@ -1,0 +1,34 @@
+project: "Single-cell epigenomic map of AD-associated CREs in human brain (Droplet Paired-Tag: scRNA + CUT&Tag)"
+regions: [HIP, CBL]
+marks: [H3K27ac, H3K27me3]
+design: "10 donors (5 AD / 5 CTL) x 2 regions x 2 marks; donors pooled 3-4 per library; 12 physical libraries"
+genome_build: hg38
+
+current_goal: "COMPLETE — Session-2 glial-subtype revision (7 steps) done on top of the 10-step base analysis; awaiting user review"
+
+completed:
+  - "Setup + data validation; mislabel decode + user-confirmed corrections (Decision #01,#02)"
+  - "Built sc-epi R env (Seurat 5.5.1, Signac 1.17.1, edgeR, DESeq2, fgsea, harmony, EnsDb.Hsapiens.v86 + GenomeInfoDbData in output/Rlib)"
+  - "Steps 1-10 base analysis (QC 147,228 cells; clustering/annotation; consensus atlas 859,854 ac / 567,404 me3; CRE-states; null single-CRE DE + 431 GSEA pathways; 737,433 CRE-gene links; interpretation; targets; glial subtypes; REPORT+METHODS)"
+  - "S2 Step 1 figure legibility: rebuilt celltypes_HIP/CBL dotplots, CRE_state_classification, celltype_interpretation (labels + bigger fonts)"
+  - "S2 Step 2 subtype annotation (marker + reference; Decision #12): micro Homeostatic/Inflammatory/PVM-lipid-DAM; astro Homeostatic/Reactive/MT_stress; mito-high + doublet + lymphocyte QC exclusion"
+  - "S2 Step 3 composition AD-vs-CTL (Wilcoxon n=9): MT_stress astrocytes expand p=0.032; others trend only"
+  - "S2 Step 4 per-state CRE change (Decision #13): single-CRE null; pooled GSEA = astrocyte state-switch (homeostatic lose / reactive gain inflammatory H3K27ac) + microglial de-repression (homeostatic lose immune H3K27me3)"
+  - "S2 Step 5 per-cell-type enrichment scatter (replaces weak Fig-8 claim)"
+  - "S2 Step 6 per-cell-type target figures (astro, micro); original Fig 13 heatmap kept"
+  - "S2 Step 7 Results+Discussion rewrite (Decision #14): dropped two-axis model fig; region-divergent glial axis; figs renumbered 1-17; REPORT.md v4; NOTEBOOK/DECISIONS/AI_STATE updated"
+
+running: []
+pending: []
+
+hypotheses:
+  - "SUPPORTED (state-resolved): AD glial immune remodeling is a chromatin-level reactive state-switch — reactive astrocytes & activated microglia GAIN inflammatory H3K27ac; homeostatic astrocytes lose it and homeostatic microglia lose repressive H3K27me3 (de-repression/priming)"
+  - "SUPPORTED: region-divergent glial axis — HIP (reactive) astrocytes gain inflammatory enhancer marking; CBL microglia lose it (framed as region-specific dampening, not silencing)"
+  - "MOSTLY NULL: gross glial subtype-proportion shift AD vs CTL underpowered at n=9 (only MT_stress astrocyte expansion significant, p=0.032) — signal is in state enhancer landscape, not proportions"
+
+key_arms:
+  - "HIP H3K27ac n=9 (4AD/5CTL); HIP H3K27me3 n=9 (4/5); CBL H3K27ac n=9 (4/5); CBL H3K27me3 n=8 (3/5, weakest)"
+
+next_step: "Awaiting user review of revised deliverable set. Possible follow-ups: CBL Astro/Oligo state analysis (data-supportable, deferred); larger-cohort per-state single-CRE test; external AD-GWAS/eQTL cross-ref of targets; report -> PDF/DOCX or journal style"
+
+blockers: []

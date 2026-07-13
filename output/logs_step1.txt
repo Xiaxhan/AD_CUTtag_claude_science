@@ -1,0 +1,39 @@
+[1/12] CBL_H3K27ac_0506 ...
+[2/12] CBL_H3K27ac_0513_02 ...
+[3/12] CBL_H3K27ac_0513_03 ...
+[4/12] CBL_H3K27me3_0506 ...
+[5/12] CBL_H3K27me3_0513_02 ...
+[6/12] CBL_H3K27me3_0513_03 ...
+[7/12] HIP_H3K27ac_LIB1 ...
+[8/12] HIP_H3K27ac_LIB2 ...
+[9/12] HIP_H3K27ac_LIB3 ...
+[10/12] HIP_H3K27me3_LIB1 ...
+[11/12] HIP_H3K27me3_LIB2 ...
+[12/12] HIP_H3K27me3_LIB3 ...
+DONE
+                                  library  n_raw n_valid_singlet n_qc_pass
+CBL_H3K27ac_0506         CBL_H3K27ac_0506 529428           90225     11865
+CBL_H3K27ac_0513_02   CBL_H3K27ac_0513_02 581908           80531     10157
+CBL_H3K27ac_0513_03   CBL_H3K27ac_0513_03 565742           77687     12696
+CBL_H3K27me3_0506       CBL_H3K27me3_0506 524406           60830     10625
+CBL_H3K27me3_0513_02 CBL_H3K27me3_0513_02 529804           64995     11146
+CBL_H3K27me3_0513_03 CBL_H3K27me3_0513_03 555160           80305      9408
+HIP_H3K27ac_LIB1         HIP_H3K27ac_LIB1 649750           73499     21722
+HIP_H3K27ac_LIB2         HIP_H3K27ac_LIB2 627133           72533     16058
+HIP_H3K27ac_LIB3         HIP_H3K27ac_LIB3 632115           57985     11516
+HIP_H3K27me3_LIB1       HIP_H3K27me3_LIB1 631403           76003     16008
+HIP_H3K27me3_LIB2       HIP_H3K27me3_LIB2 605864           75928      7512
+HIP_H3K27me3_LIB3       HIP_H3K27me3_LIB3 625581           65369      8982
+                     n_after_cortex_drop n_peaks_macs2
+CBL_H3K27ac_0506                   11865        424254
+CBL_H3K27ac_0513_02                10157        689590
+CBL_H3K27ac_0513_03                12696        738069
+CBL_H3K27me3_0506                  10625        686783
+CBL_H3K27me3_0513_02               11146        576687
+CBL_H3K27me3_0513_03                8941        653900
+HIP_H3K27ac_LIB1                   21722        862670
+HIP_H3K27ac_LIB2                   16058        879068
+HIP_H3K27ac_LIB3                   11516        865425
+HIP_H3K27me3_LIB1                  16008        536091
+HIP_H3K27me3_LIB2                   7512        573010
+HIP_H3K27me3_LIB3                   8982        524611

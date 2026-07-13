@@ -1,0 +1,987 @@
+celltype,state,mark,pathway,NES,pval,padj,size
+Astro,Homeostatic,H3K27ac,UV Response Dn,-1.915,5.34e-10,0,140
+Astro,Homeostatic,H3K27ac,Endoderm differentiation WP2853,-1.79,4.04e-08,1e-04,139
+Astro,Homeostatic,H3K27ac,renal system development (GO:0072001),-2.085,4.86e-08,1e-04,55
+Astro,Homeostatic,H3K27ac,neuron differentiation (GO:0030182),-1.694,9.49e-08,1e-04,172
+Astro,Homeostatic,H3K27ac,Mesodermal commitment pathway WP2857,-1.724,4.13e-07,3e-04,143
+Astro,Homeostatic,H3K27ac,kidney development (GO:0001822),-1.95,4.14e-07,3e-04,68
+Astro,Homeostatic,H3K27ac,cellular response to growth factor stimulus (GO:0071363),-1.688,1.1e-06,7e-04,153
+Astro,Homeostatic,H3K27ac,positive regulation of MAPK cascade (GO:0043410),-1.578,1.14e-06,7e-04,247
+Astro,Homeostatic,H3K27ac,positive regulation of multicellular organismal process (GO:0051240),-1.496,1.91e-06,0.001,332
+Astro,Homeostatic,H3K27ac,Calcium signaling pathway,-1.553,3.08e-06,0.0011,238
+Astro,Homeostatic,H3K27ac,Development of ureteric collection system WP5053,-2,2.83e-06,0.0011,46
+Astro,Homeostatic,H3K27ac,circulatory system development (GO:0072359),-1.757,2.49e-06,0.0011,120
+Astro,Homeostatic,H3K27ac,development of primary male sexual characteristics (GO:0046546),-2.005,3.27e-06,0.0011,40
+Astro,Homeostatic,H3K27ac,regulation of cell migration (GO:0030334),-1.447,2.67e-06,0.0011,387
+Astro,Homeostatic,H3K27ac,male gonad development (GO:0008584),-1.993,4.04e-06,0.0013,40
+Astro,Homeostatic,H3K27ac,calcium-dependent cell-cell adhesion via plasma membrane cell adhesion molecules (GO:0016339),-2.106,5.92e-06,0.0017,25
+Astro,Homeostatic,H3K27ac,regulation of endothelial cell proliferation (GO:0001936),-1.795,8.13e-06,0.0022,86
+Astro,Homeostatic,H3K27ac,gonad development (GO:0008406),-1.904,1.18e-05,0.0031,48
+Astro,Homeostatic,H3K27ac,positive regulation of ossification (GO:0045778),-1.95,1.29e-05,0.0032,39
+Astro,Homeostatic,H3K27ac,cell-cell adhesion via plasma-membrane adhesion molecules (GO:0098742),-1.608,1.55e-05,0.0036,153
+Astro,Homeostatic,H3K27ac,heart development (GO:0007507),-1.589,1.63e-05,0.0036,156
+Astro,Homeostatic,H3K27ac,anterograde trans-synaptic signaling (GO:0098916),-1.523,2.25e-05,0.0048,225
+Astro,Homeostatic,H3K27ac,cGMP-PKG signaling pathway,-1.571,2.72e-05,0.0056,163
+Astro,Homeostatic,H3K27ac,GDNF/RET signaling axis WP4830,-1.993,3.84e-05,0.0062,22
+Astro,Homeostatic,H3K27ac,cell-cell junction assembly (GO:0007043),-1.78,3.35e-05,0.0062,65
+Astro,Homeostatic,H3K27ac,negative regulation of B cell activation (GO:0050869),-1.996,3.78e-05,0.0062,22
+Astro,Homeostatic,H3K27ac,negative regulation of angiogenesis (GO:0016525),-1.727,4.08e-05,0.0062,80
+Astro,Homeostatic,H3K27ac,negative regulation of blood vessel morphogenesis (GO:2000181),-1.778,3.46e-05,0.0062,71
+Astro,Homeostatic,H3K27ac,negative regulation of cell population proliferation (GO:0008285),-1.412,3.79e-05,0.0062,364
+Astro,Homeostatic,H3K27ac,neuron development (GO:0048666),-1.608,3.96e-05,0.0062,140
+Astro,Homeostatic,H3K27ac,positive regulation of cold-induced thermogenesis (GO:0120162),-1.706,3.68e-05,0.0062,96
+Astro,Homeostatic,H3K27ac,chordate embryonic development (GO:0043009),-1.823,4.26e-05,0.0063,57
+Astro,Homeostatic,H3K27ac,regulation of ERK1 and ERK2 cascade (GO:0070372),-1.513,4.41e-05,0.0063,215
+Astro,Homeostatic,H3K27ac,Epithelial Mesenchymal Transition,-1.502,5.81e-05,0.0069,195
+Astro,Homeostatic,H3K27ac,Pathways Regulating Hippo Signaling WP4540,-1.663,5.31e-05,0.0069,98
+Astro,Homeostatic,H3K27ac,chemical synaptic transmission (GO:0007268),-1.433,6.04e-05,0.0069,283
+Astro,Homeostatic,H3K27ac,positive regulation of cell differentiation (GO:0045597),-1.477,5.92e-05,0.0069,250
+Astro,Homeostatic,H3K27ac,positive regulation of nucleic acid-templated transcription (GO:1903508),-1.335,5.36e-05,0.0069,496
+Astro,Homeostatic,H3K27ac,regulation of Wnt signaling pathway (GO:0030111),-1.672,5.08e-05,0.0069,110
+Astro,Homeostatic,H3K27ac,regulation of endothelial cell migration (GO:0010594),-1.685,5.7e-05,0.0069,87
+Astro,Homeostatic,H3K27ac,response to amyloid-beta (GO:1904645),-1.854,5.48e-05,0.0069,43
+Astro,Homeostatic,H3K27ac,Nephrogenesis WP5052,-2.009,6.47e-05,0.0072,17
+Astro,Homeostatic,H3K27ac,cell-cell junction organization (GO:0045216),-1.702,6.72e-05,0.0073,80
+Astro,Homeostatic,H3K27ac,Axon guidance,-1.53,7.16e-05,0.0076,182
+Astro,Homeostatic,H3K27ac,adherens junction organization (GO:0034332),-1.813,0.000108,0.0112,47
+Astro,Homeostatic,H3K27ac,negative regulation of multicellular organismal process (GO:0051241),-1.463,0.000112,0.0114,212
+Astro,Homeostatic,H3K27ac,embryonic organ development (GO:0048568),-1.731,0.000115,0.0115,65
+Astro,Homeostatic,H3K27ac,skeletal system development (GO:0001501),-1.556,0.000124,0.0121,150
+Astro,Homeostatic,H3K27ac,Neuroactive ligand-receptor interaction,-1.387,0.000142,0.013,326
+Astro,Homeostatic,H3K27ac,negative regulation of epithelial cell proliferation (GO:0050680),-1.713,0.00014,0.013,69
+Astro,Homeostatic,H3K27ac,positive regulation of metabolic process (GO:0009893),-1.607,0.000139,0.013,111
+Astro,Homeostatic,H3K27ac,axon guidance (GO:0007411),-1.465,0.000155,0.014,202
+Astro,Homeostatic,H3K27ac,glutamate receptor signaling pathway (GO:0007215),-1.822,0.000179,0.0158,37
+Astro,Homeostatic,H3K27ac,cellular response to amyloid-beta (GO:1904646),-1.838,0.000186,0.0159,34
+Astro,Homeostatic,H3K27ac,generation of neurons (GO:0048699),-1.479,0.000194,0.0159,198
+Astro,Homeostatic,H3K27ac,positive regulation of biomineral tissue development (GO:0070169),-1.824,0.000186,0.0159,39
+Astro,Homeostatic,H3K27ac,positive regulation of bone mineralization (GO:0030501),-1.851,0.000191,0.0159,35
+Astro,Homeostatic,H3K27ac,second-messenger-mediated signaling (GO:0019932),-1.642,0.000196,0.0159,84
+Astro,Homeostatic,H3K27ac,Wnt signaling pathway,-1.498,0.000203,0.0161,163
+Astro,Homeostatic,H3K27ac,negative regulation of epithelial to mesenchymal transition (GO:0010719),-1.887,0.000209,0.0162,29
+Astro,Homeostatic,H3K27ac,regulation of bone mineralization (GO:0030500),-1.736,0.000211,0.0162,55
+Astro,Homeostatic,H3K27ac,eye development (GO:0001654),-1.721,0.000227,0.0172,58
+Astro,Homeostatic,H3K27ac,positive regulation of signal transduction (GO:0009967),-1.431,0.000235,0.0175,239
+Astro,Homeostatic,H3K27ac,branching morphogenesis of an epithelial tube (GO:0048754),-1.774,0.000251,0.0184,43
+Astro,Homeostatic,H3K27ac,Heart Development WP1591,-1.768,0.000265,0.0191,43
+Astro,Homeostatic,H3K27ac,Wnt signaling WP428,-1.561,0.000285,0.0194,114
+Astro,Homeostatic,H3K27ac,brain development (GO:0007420),-1.53,0.00028,0.0194,145
+Astro,Homeostatic,H3K27ac,extracellular matrix organization (GO:0030198),-1.384,0.00028,0.0194,292
+Astro,Homeostatic,H3K27ac,negative regulation of sodium ion transmembrane transporter activity (GO:2000650),-1.964,0.000281,0.0194,10
+Astro,Homeostatic,H3K27ac,mesenchymal cell differentiation (GO:0048762),-1.74,0.000301,0.0199,51
+Astro,Homeostatic,H3K27ac,negative regulation of endothelial cell proliferation (GO:0001937),-1.8,3e-04,0.0199,34
+Astro,Homeostatic,H3K27ac,MAPK signaling pathway,-1.382,0.000308,0.02,292
+Astro,Homeostatic,H3K27ac,positive regulation of cell projection organization (GO:0031346),-1.558,0.000312,0.0201,114
+Astro,Homeostatic,H3K27ac,regulation of BMP signaling pathway (GO:0030510),-1.663,0.000322,0.0204,73
+Astro,Homeostatic,H3K27ac,response to growth factor (GO:0070848),-1.756,0.000326,0.0204,40
+Astro,Homeostatic,H3K27ac,Monoamine GPCRs WP58,-1.812,0.000361,0.0223,33
+Astro,Homeostatic,H3K27ac,LncRNA involvement in canonical Wnt signaling and colorectal cancer WP4258,-1.599,0.000372,0.0226,92
+Astro,Homeostatic,H3K27ac,Hippo-Merlin Signaling Dysregulation WP4541,-1.548,0.00039,0.0234,119
+Astro,Homeostatic,H3K27ac,polarized epithelial cell differentiation (GO:0030859),2.31,0.000404,0.0237,14
+Astro,Homeostatic,H3K27ac,positive regulation of ERK1 and ERK2 cascade (GO:0070374),-1.515,0.000403,0.0237,151
+Astro,Homeostatic,H3K27ac,epithelial to mesenchymal transition (GO:0001837),-1.766,0.000416,0.0241,46
+Astro,Homeostatic,H3K27ac,positive regulation of epithelial cell proliferation (GO:0050679),-1.533,0.00044,0.0252,118
+Astro,Homeostatic,H3K27ac,Calcium Regulation in the Cardiac Cell WP536,-1.498,0.000481,0.0256,149
+Astro,Homeostatic,H3K27ac,Sudden Infant Death Syndrome (SIDS) Susceptibility Pathways WP706,-1.473,0.000458,0.0256,152
+Astro,Homeostatic,H3K27ac,calcium ion transport (GO:0006816),-1.568,0.000481,0.0256,110
+Astro,Homeostatic,H3K27ac,metanephros development (GO:0001656),-1.854,0.000479,0.0256,26
+Astro,Homeostatic,H3K27ac,ncRNAs involved in Wnt signaling in hepatocellular carcinoma WP4336,-1.617,0.000463,0.0256,85
+Astro,Homeostatic,H3K27ac,regulation of MAPK cascade (GO:0043408),-1.478,0.000472,0.0256,160
+Astro,Homeostatic,H3K27ac,Wnt signaling pathway and pluripotency WP399,-1.546,0.000518,0.0267,101
+Astro,Homeostatic,H3K27ac,gland development (GO:0048732),-1.629,0.00051,0.0267,71
+Astro,Homeostatic,H3K27ac,ventricular septum development (GO:0003281),-1.79,0.000517,0.0267,38
+Astro,Homeostatic,H3K27ac,regulation of cartilage development (GO:0061035),-1.872,6e-04,0.0303,18
+Astro,Homeostatic,H3K27ac,visual system development (GO:0150063),-1.715,6e-04,0.0303,41
+Astro,Homeostatic,H3K27ac,negative regulation of sodium ion transmembrane transport (GO:1902306),-1.921,0.000607,0.0303,10
+Astro,Homeostatic,H3K27ac,Gastric cancer,-1.45,0.000673,0.0332,147
+Astro,Homeostatic,H3K27ac,regulation of smooth muscle cell proliferation (GO:0048660),-1.716,0.00068,0.0332,44
+Astro,Homeostatic,H3K27ac,calcium ion import (GO:0070509),-1.826,0.000705,0.0341,27
+Astro,Homeostatic,H3K27ac,regulation of epithelial to mesenchymal transition (GO:0010717),-1.621,0.000721,0.0345,75
+Astro,Homeostatic,H3K27ac,regulation of angiogenesis (GO:0045765),-1.426,0.000756,0.0358,192
+Astro,Homeostatic,H3K27ac,"GPCRs, Class C Metabotropic glutamate, pheromone WP501",-1.894,0.000773,0.0362,15
+Astro,Homeostatic,H3K27ac,ventricular septum morphogenesis (GO:0060412),-1.796,0.000779,0.0362,28
+Astro,Homeostatic,H3K27ac,cation transport (GO:0006812),-1.44,0.000838,0.0385,171
+Astro,Homeostatic,H3K27ac,Hippo signaling pathway,-1.458,0.000847,0.0386,160
+Astro,Homeostatic,H3K27ac,Mucin type O-glycan biosynthesis,-1.768,0.000865,0.039,35
+Astro,Homeostatic,H3K27ac,Nicotine addiction,-1.696,0.000879,0.0393,40
+Astro,Homeostatic,H3K27ac,negative regulation of smooth muscle cell migration (GO:0014912),-1.861,0.000893,0.0395,14
+Astro,Homeostatic,H3K27ac,regulation of NMDA receptor activity (GO:2000310),-1.748,0.000914,0.0401,32
+Astro,Homeostatic,H3K27ac,ureteric bud development (GO:0001657),-1.834,0.000986,0.0428,19
+Astro,Homeostatic,H3K27ac,Dopaminergic Neurogenesis WP2855,-1.801,0.00101,0.0431,30
+Astro,Homeostatic,H3K27ac,negative regulation of Wnt signaling pathway (GO:0030178),-1.428,0.001,0.0431,185
+Astro,Homeostatic,H3K27ac,PKC-gamma calcium signaling pathway in ataxia WP4760,-1.782,0.00105,0.0443,22
+Astro,Homeostatic,H3K27ac,Arrhythmogenic right ventricular cardiomyopathy,-1.594,0.00108,0.0452,77
+Astro,Homeostatic,H3K27ac,Genes controlling nephrogenesis WP4823,-1.681,0.00111,0.0462,40
+Astro,Homeostatic,H3K27ac,Primary bile acid biosynthesis,-1.864,0.00112,0.0462,16
+Astro,Homeostatic,H3K27ac,mesonephric tubule development (GO:0072164),-1.815,0.00114,0.0463,17
+Astro,Homeostatic,H3K27ac,positive regulation of neuron projection development (GO:0010976),-1.558,0.00137,0.0555,85
+Astro,Homeostatic,H3K27ac,positive regulation of BMP signaling pathway (GO:0030513),-1.775,0.0014,0.0563,25
+Astro,Homeostatic,H3K27ac,positive regulation of fat cell differentiation (GO:0045600),-1.647,0.00151,0.0591,51
+Astro,Homeostatic,H3K27ac,regulation of axonogenesis (GO:0050770),-1.647,0.00151,0.0591,51
+Astro,Homeostatic,H3K27ac,regulation of cation channel activity (GO:2001257),-1.558,0.0015,0.0591,86
+Astro,Homeostatic,H3K27ac,regulation of DNA biosynthetic process (GO:2000278),-1.77,0.00157,0.0608,27
+Astro,Homeostatic,H3K27ac,positive regulation of transmembrane receptor protein serine/threonine kinase signaling pathway (GO:0090100),-1.557,0.0017,0.0654,89
+Astro,Homeostatic,H3K27ac,negative regulation of ion transport (GO:0043271),-1.739,0.00177,0.067,23
+Astro,Homeostatic,H3K27ac,regulation of osteoblast differentiation (GO:0045667),-1.563,0.00176,0.067,79
+Astro,Homeostatic,H3K27ac,ECM-receptor interaction,-1.544,0.0018,0.0671,88
+Astro,Homeostatic,H3K27ac,collagen fibril organization (GO:0030199),-1.542,0.0018,0.0671,88
+Astro,Homeostatic,H3K27ac,negative regulation of epithelial cell migration (GO:0010633),-1.677,0.00184,0.0679,35
+Astro,Homeostatic,H3K27ac,enzyme linked receptor protein signaling pathway (GO:0007167),-1.45,0.0019,0.0686,138
+Astro,Homeostatic,H3K27ac,glycosaminoglycan biosynthetic process (GO:0006024),-1.528,0.0019,0.0686,95
+Astro,Homeostatic,H3K27ac,nervous system development (GO:0007399),-1.29,0.0019,0.0686,420
+Astro,Homeostatic,H3K27ac,Maturity onset diabetes of the young,-1.75,0.00194,0.0691,26
+Astro,Homeostatic,H3K27ac,neural tube development (GO:0021915),-1.807,0.00194,0.0691,16
+Astro,Homeostatic,H3K27ac,Differentiation of white and brown adipocyte WP2895,-1.754,0.00198,0.0696,24
+Astro,Homeostatic,H3K27ac,Salivary secretion,-1.523,0.0021,0.0696,87
+Astro,Homeostatic,H3K27ac,cytoplasmic translational initiation (GO:0002183),1.948,0.00199,0.0696,18
+Astro,Homeostatic,H3K27ac,negative regulation of cholesterol storage (GO:0010887),-1.838,0.00208,0.0696,10
+Astro,Homeostatic,H3K27ac,pathway-restricted SMAD protein phosphorylation (GO:0060389),-1.808,0.00212,0.0696,13
+Astro,Homeostatic,H3K27ac,positive regulation of cysteine-type endopeptidase activity (GO:2001056),-1.616,0.00211,0.0696,58
+Astro,Homeostatic,H3K27ac,positive regulation of ion transport (GO:0043270),-1.645,0.00212,0.0696,46
+Astro,Homeostatic,H3K27ac,proteoglycan biosynthetic process (GO:0030166),-1.73,0.00205,0.0696,31
+Astro,Homeostatic,H3K27ac,regulation of actin filament polymerization (GO:0030833),-1.569,0.00201,0.0696,67
+Astro,Homeostatic,H3K27ac,regulation of potassium ion transmembrane transporter activity (GO:1901016),-1.739,0.00208,0.0696,25
+Astro,Homeostatic,H3K27ac,sympathetic nervous system development (GO:0048485),-1.784,0.00205,0.0696,16
+Astro,Homeostatic,H3K27ac,G Protein Signaling Pathways WP35,-1.518,0.0023,0.0697,93
+Astro,Homeostatic,H3K27ac,Rett syndrome causing genes WP4312,-1.626,0.00222,0.0697,47
+Astro,Homeostatic,H3K27ac,Splicing factor NOVA regulated synaptic proteins WP4148,-1.662,0.00223,0.0697,42
+Astro,Homeostatic,H3K27ac,external encapsulating structure organization (GO:0045229),-1.381,0.0023,0.0697,214
+Astro,Homeostatic,H3K27ac,phospholipase C-activating G protein-coupled receptor signaling pathway (GO:0007200),-1.557,0.00231,0.0697,73
+Astro,Homeostatic,H3K27ac,primary neural tube formation (GO:0014020),-1.743,0.00215,0.0697,29
+Astro,Homeostatic,H3K27ac,regulation of canonical Wnt signaling pathway (GO:0060828),-1.362,0.0022,0.0697,246
+Astro,Homeostatic,H3K27ac,regulation of epithelial cell proliferation (GO:0050678),-1.529,0.0022,0.0697,92
+Astro,Homeostatic,H3K27ac,regulation of potassium ion transport (GO:0043266),-1.718,0.00226,0.0697,31
+Astro,Homeostatic,H3K27ac,response to peptide (GO:1901652),-1.704,0.0022,0.0697,38
+Astro,Homeostatic,H3K27ac,sprouting angiogenesis (GO:0002040),-1.625,0.00232,0.0697,51
+Astro,Homeostatic,H3K27ac,thymus development (GO:0048538),-1.785,0.00231,0.0697,14
+Astro,Homeostatic,H3K27ac,tube closure (GO:0060606),-1.746,0.00219,0.0697,30
+Astro,Homeostatic,H3K27ac,positive regulation of calcium ion import (GO:0090280),-1.812,0.00239,0.0709,11
+Astro,Homeostatic,H3K27ac,proteoglycan metabolic process (GO:0006029),-1.735,0.00239,0.0709,25
+Astro,Homeostatic,H3K27ac,positive regulation of cartilage development (GO:0061036),-1.769,0.00243,0.0716,18
+Astro,Homeostatic,H3K27ac,"GPCRs, Class A Rhodopsin-like WP455",-1.372,0.0026,0.0731,210
+Astro,Homeostatic,H3K27ac,TGF-beta signaling pathway,-1.515,0.0026,0.0731,92
+Astro,Homeostatic,H3K27ac,adenylate cyclase-modulating G protein-coupled receptor signaling pathway (GO:0007188),-1.413,0.0026,0.0731,162
+Astro,Homeostatic,H3K27ac,epithelium development (GO:0060429),-1.47,0.0026,0.0731,117
+Astro,Homeostatic,H3K27ac,extracellular structure organization (GO:0043062),-1.379,0.0026,0.0731,213
+Astro,Homeostatic,H3K27ac,lipid translocation (GO:0034204),-1.729,0.0025,0.0731,23
+Astro,Homeostatic,H3K27ac,mesenchymal to epithelial transition (GO:0060231),-1.817,0.00254,0.0731,10
+Astro,Homeostatic,H3K27ac,metal ion transport (GO:0030001),-1.532,0.0026,0.0731,83
+Astro,Homeostatic,H3K27ac,organic hydroxy compound biosynthetic process (GO:1901617),-1.613,0.00262,0.0732,49
+Astro,Homeostatic,H3K27ac,heart trabecula morphogenesis (GO:0061384),-1.729,0.00265,0.0736,19
+Astro,Homeostatic,H3K27ac,phospholipid translocation (GO:0045332),-1.706,0.00268,0.0739,29
+Astro,Homeostatic,H3K27ac,blood vessel morphogenesis (GO:0048514),-1.595,0.00282,0.0747,56
+Astro,Homeostatic,H3K27ac,central nervous system development (GO:0007417),-1.335,0.0028,0.0747,259
+Astro,Homeostatic,H3K27ac,cytosolic calcium ion transport (GO:0060401),-1.695,0.00279,0.0747,27
+Astro,Homeostatic,H3K27ac,intestinal absorption (GO:0050892),-1.778,0.00275,0.0747,14
+Astro,Homeostatic,H3K27ac,negative regulation of ion transmembrane transporter activity (GO:0032413),-1.726,0.00274,0.0747,20
+Astro,Homeostatic,H3K27ac,positive regulation of phosphatidylinositol 3-kinase signaling (GO:0014068),-1.54,0.00281,0.0747,75
+Astro,Homeostatic,H3K27ac,"positive regulation of synaptic transmission, glutamatergic (GO:0051968)",-1.733,0.00277,0.0747,18
+Astro,Homeostatic,H3K27ac,Vitamin D Receptor Pathway WP2877,-1.409,0.0029,0.0758,161
+Astro,Homeostatic,H3K27ac,canonical Wnt signaling pathway (GO:0060070),-1.542,0.00291,0.0758,68
+Astro,Homeostatic,H3K27ac,female gonad development (GO:0008585),-1.764,0.00289,0.0758,21
+Astro,Homeostatic,H3K27ac,"regulation of synaptic transmission, glutamatergic (GO:0051966)",-1.622,0.00293,0.0759,46
+Astro,Homeostatic,H3K27ac,axonogenesis (GO:0007409),-1.344,0.003,0.0773,239
+Astro,Homeostatic,H3K27ac,dopaminergic neuron differentiation (GO:0071542),-1.717,0.00306,0.0784,20
+Astro,Homeostatic,H3K27ac,membrane depolarization (GO:0051899),-1.692,0.00308,0.0784,31
+Astro,Homeostatic,H3K27ac,ureteric bud morphogenesis (GO:0060675),-1.727,0.00309,0.0784,18
+Astro,Homeostatic,H3K27ac,Inflammatory bowel disease,-1.582,0.00312,0.0786,59
+Astro,Homeostatic,H3K27ac,negative regulation of endothelial cell migration (GO:0010596),-1.635,0.00326,0.0817,38
+Astro,Homeostatic,H3K27ac,negative regulation of cell differentiation (GO:0045596),-1.387,0.0033,0.0824,187
+Astro,Homeostatic,H3K27ac,positive regulation of cell-cell adhesion (GO:0022409),-1.621,0.00334,0.0829,43
+Astro,Homeostatic,H3K27ac,autonomic nervous system development (GO:0048483),-1.716,0.00336,0.083,21
+Astro,Homeostatic,H3K27ac,positive regulation of developmental process (GO:0051094),-1.401,0.0034,0.0835,164
+Astro,Homeostatic,H3K27ac,Regulation of Wnt/B-catenin Signaling by Small Molecule Compounds WP3664,-1.738,0.00343,0.0839,17
+Astro,Homeostatic,H3K27ac,metanephric mesenchyme development (GO:0072075),-1.789,0.00352,0.0857,11
+Astro,Homeostatic,H3K27ac,positive regulation of interleukin-1 beta production (GO:0032731),-1.586,0.00363,0.0878,49
+Astro,Homeostatic,H3K27ac,Extracellular vesicles in the crosstalk of cardiac cells WP4300,-1.708,0.00371,0.0893,19
+Astro,Homeostatic,H3K27ac,artery morphogenesis (GO:0048844),-1.681,0.0038,0.091,30
+Astro,Homeostatic,H3K27ac,positive regulation of cell junction assembly (GO:1901890),-1.567,0.00382,0.091,57
+Astro,Homeostatic,H3K27ac,adenylate cyclase-inhibiting G protein-coupled receptor signaling pathway (GO:0007193),-1.561,0.00392,0.092,58
+Astro,Homeostatic,H3K27ac,calcium-mediated signaling (GO:0019722),-1.477,0.0039,0.092,97
+Astro,Homeostatic,H3K27ac,chondrocyte differentiation (GO:0002062),-1.675,0.0039,0.092,31
+Astro,Homeostatic,H3K27ac,inflammatory response (GO:0006954),-1.354,0.004,0.0934,211
+Astro,Homeostatic,H3K27ac,Circadian entrainment,-1.491,0.0041,0.0948,95
+Astro,Homeostatic,H3K27ac,calcium ion transmembrane transport (GO:0070588),-1.496,0.0041,0.0948,86
+Astro,Homeostatic,H3K27ac,response to retinoic acid (GO:0032526),-1.559,0.00412,0.0948,59
+Astro,Homeostatic,H3K27ac,regulation of nucleocytoplasmic transport (GO:0046822),-1.743,0.00423,0.0967,13
+Astro,Homeostatic,H3K27ac,negative regulation of fibroblast growth factor receptor signaling pathway (GO:0040037),-1.737,0.0043,0.0974,14
+Astro,Homeostatic,H3K27ac,regulation of gastrulation (GO:0010470),-1.734,0.0043,0.0974,14
+Astro,Homeostatic,H3K27ac,BMP2-WNT4-FOXO1 pathway in primary endometrial stromal cell differentiation WP3876,-1.74,0.00434,0.0975,13
+Astro,Homeostatic,H3K27ac,cardiac ventricle morphogenesis (GO:0003208),-1.598,0.00434,0.0975,44
+Astro,Homeostatic,H3K27ac,PI3K-Akt signaling pathway,-1.283,0.0044,0.0979,341
+Astro,Homeostatic,H3K27ac,cell junction assembly (GO:0034329),-1.489,0.0044,0.0979,91
+Astro,Homeostatic,H3K27ac,cardiac epithelial to mesenchymal transition (GO:0060317),-1.681,0.00443,0.0981,20
+Astro,Homeostatic,H3K27ac,Mammary gland development pathway - Pregnancy and lactation (Stage 3 of 4) WP2817,-1.66,0.00451,0.0989,31
+Astro,Homeostatic,H3K27ac,bile acid biosynthetic process (GO:0006699),-1.663,0.00456,0.0989,26
+Astro,Homeostatic,H3K27ac,cellular response to BMP stimulus (GO:0071773),-1.516,0.00462,0.0989,69
+Astro,Homeostatic,H3K27ac,central nervous system neuron differentiation (GO:0021953),-1.647,0.0046,0.0989,34
+Astro,Homeostatic,H3K27ac,limb morphogenesis (GO:0035108),-1.688,0.0046,0.0989,22
+Astro,Homeostatic,H3K27ac,positive regulation of endothelial cell proliferation (GO:0001938),-1.505,0.00461,0.0989,73
+Astro,Homeostatic,H3K27ac,regulation of amyloid-beta formation (GO:1902003),-1.651,0.0046,0.0989,33
+Astro,Homeostatic,H3K27me3,axon guidance (GO:0007411),-1.81,2.67e-09,0,196
+Astro,Homeostatic,H3K27me3,axonogenesis (GO:0007409),-1.661,2.12e-07,5e-04,232
+Astro,Homeostatic,H3K27me3,regulation of cell migration (GO:0030334),-1.525,4.05e-07,6e-04,377
+Astro,Homeostatic,H3K27me3,cell-cell adhesion via plasma-membrane adhesion molecules (GO:0098742),-1.733,6.44e-07,7e-04,163
+Astro,Homeostatic,H3K27me3,modulation of chemical synaptic transmission (GO:0050804),-1.843,7.83e-07,7e-04,107
+Astro,Homeostatic,H3K27me3,negative chemotaxis (GO:0050919),-2.118,1.22e-06,9e-04,32
+Astro,Homeostatic,H3K27me3,Axon guidance,-1.668,2.63e-06,0.0017,169
+Astro,Homeostatic,H3K27me3,Epithelial Mesenchymal Transition,-1.639,2.98e-06,0.0017,192
+Astro,Homeostatic,H3K27me3,UV Response Dn,-1.723,3.98e-06,0.0019,137
+Astro,Homeostatic,H3K27me3,adherens junction organization (GO:0034332),-1.995,4.2e-06,0.0019,46
+Astro,Homeostatic,H3K27me3,anterograde trans-synaptic signaling (GO:0098916),-1.556,9.8e-06,0.0041,232
+Astro,Homeostatic,H3K27me3,negative regulation of cell differentiation (GO:0045596),-1.621,1.26e-05,0.0048,172
+Astro,Homeostatic,H3K27me3,neuron differentiation (GO:0030182),-1.611,1.91e-05,0.0067,165
+Astro,Homeostatic,H3K27me3,Wnt signaling pathway,-1.645,2.11e-05,0.0069,153
+Astro,Homeostatic,H3K27me3,Differentiation Pathway WP2848,-1.93,2.36e-05,0.0069,47
+Astro,Homeostatic,H3K27me3,chemical synaptic transmission (GO:0007268),-1.489,2.42e-05,0.0069,288
+Astro,Homeostatic,H3K27me3,calcium-dependent cell-cell adhesion via plasma membrane cell adhesion molecules (GO:0016339),-1.998,3.33e-05,0.0085,31
+Astro,Homeostatic,H3K27me3,ventricular septum morphogenesis (GO:0060412),-2.011,3.38e-05,0.0085,28
+Astro,Homeostatic,H3K27me3,regulation of cellular response to growth factor stimulus (GO:0090287),-2.005,5.54e-05,0.0133,17
+Astro,Homeostatic,H3K27me3,regulation of hydrolase activity (GO:0051336),-1.74,0.000147,0.0333,70
+Astro,Homeostatic,H3K27me3,homophilic cell adhesion via plasma membrane adhesion molecules (GO:0007156),-1.744,0.000164,0.0356,58
+Astro,Homeostatic,H3K27me3,kidney development (GO:0001822),-1.735,0.000175,0.0361,66
+Astro,Homeostatic,H3K27me3,Neuroactive ligand-receptor interaction,-1.409,0.000205,0.0389,330
+Astro,Homeostatic,H3K27me3,lamellipodium organization (GO:0097581),-1.89,0.000201,0.0389,27
+Astro,Homeostatic,H3K27me3,negative regulation of Wnt signaling pathway (GO:0030178),-1.518,0.000221,0.0403,171
+Astro,Homeostatic,H3K27me3,positive regulation of cell projection organization (GO:0031346),-1.605,0.000263,0.0461,108
+Astro,Homeostatic,H3K27me3,Hypoxia,-1.49,0.00029,0.0488,181
+Astro,Homeostatic,H3K27me3,nervous system development (GO:0007399),-1.355,0.000303,0.0493,419
+Astro,Homeostatic,H3K27me3,hemopoiesis (GO:0030097),-1.648,0.000379,0.0584,89
+Astro,Homeostatic,H3K27me3,negative regulation of chemotaxis (GO:0050922),-1.813,0.000397,0.0584,32
+Astro,Homeostatic,H3K27me3,regulation of membrane repolarization (GO:0060306),-1.896,0.000398,0.0584,13
+Astro,Homeostatic,H3K27me3,positive regulation of neuron projection development (GO:0010976),-1.632,0.000418,0.0594,82
+Astro,Homeostatic,H3K27me3,central nervous system development (GO:0007417),-1.429,0.000463,0.0619,249
+Astro,Homeostatic,H3K27me3,positive regulation of signal transduction (GO:0009967),-1.448,0.000454,0.0619,226
+Astro,Homeostatic,H3K27me3,axon extension (GO:0048675),-1.847,0.000523,0.0674,23
+Astro,Homeostatic,H3K27me3,phosphatidylinositol-mediated signaling (GO:0048015),-1.664,0.000575,0.0674,65
+Astro,Homeostatic,H3K27me3,platelet-derived growth factor receptor signaling pathway (GO:0048008),-1.83,0.000549,0.0674,15
+Astro,Homeostatic,H3K27me3,regulation of dendrite development (GO:0050773),-1.797,0.000574,0.0674,38
+Astro,Homeostatic,H3K27me3,regulation of mitotic metaphase/anaphase transition (GO:0030071),-1.842,0.000622,0.0674,24
+Astro,Homeostatic,H3K27me3,regulation of neuron projection development (GO:0010975),-1.522,0.000601,0.0674,150
+Astro,Homeostatic,H3K27me3,regulation of p38MAPK cascade (GO:1900744),-1.801,0.000617,0.0674,35
+Astro,Homeostatic,H3K27me3,regulation of postsynaptic membrane potential (GO:0060078),-1.796,0.00058,0.0674,33
+Astro,Homeostatic,H3K27me3,cell-cell junction organization (GO:0045216),-1.621,0.000673,0.0696,80
+Astro,Homeostatic,H3K27me3,negative regulation of ERK1 and ERK2 cascade (GO:0070373),-1.719,0.000668,0.0696,48
+Astro,Homeostatic,H3K27me3,response to amyloid-beta (GO:1904645),-1.723,0.000691,0.0699,44
+Astro,Homeostatic,H3K27me3,renal system development (GO:0072001),-1.69,0.000808,0.08,53
+Astro,Homeostatic,H3K27me3,smooth muscle cell differentiation (GO:0051145),-1.845,0.000852,0.0825,10
+Astro,Homeostatic,H3K27me3,Wnt signaling WP428,-1.579,0.000879,0.0833,107
+Astro,Homeostatic,H3K27me3,brain development (GO:0007420),-1.517,0.000969,0.09,136
+Astro,Homeostatic,H3K27me3,Mesodermal commitment pathway WP2857,-1.518,0.00104,0.0948,141
+Astro,Homeostatic,H3K27me3,embryonic digit morphogenesis (GO:0042733),-1.807,0.00108,0.0959,17
+Astro,Homeostatic,H3K27me3,generation of neurons (GO:0048699),-1.444,0.0011,0.0959,193
+Astro,Homeostatic,H3K27me3,ventricular septum development (GO:0003281),-1.737,0.00114,0.0976,37
+Astro,MT_stress,H3K27me3,Development of ureteric collection system WP5053,1.769,0.000146,0.0451,39
+Astro,MT_stress,H3K27me3,TGF-beta Receptor Signaling WP560,1.815,8.21e-05,0.0451,29
+Astro,MT_stress,H3K27me3,TGF-beta receptor signaling in skeletal dysplasias WP4816,1.815,8.21e-05,0.0451,29
+Astro,MT_stress,H3K27me3,axon guidance (GO:0007411),1.439,0.000171,0.0451,111
+Astro,MT_stress,H3K27me3,cell-cell adhesion via plasma-membrane adhesion molecules (GO:0098742),1.47,0.000178,0.0451,101
+Astro,MT_stress,H3K27me3,kidney development (GO:0001822),1.618,0.000207,0.0451,44
+Astro,MT_stress,H3K27me3,positive regulation of BMP signaling pathway (GO:0030513),2.06,3e-05,0.0451,14
+Astro,MT_stress,H3K27me3,positive regulation of cytosolic calcium ion concentration (GO:0007204),1.525,0.000192,0.0451,83
+Astro,MT_stress,H3K27me3,positive regulation of multicellular organismal process (GO:0051240),1.351,0.000203,0.0451,166
+Astro,MT_stress,H3K27me3,positive regulation of transcription by RNA polymerase II (GO:0045944),1.255,0.000108,0.0451,380
+Astro,MT_stress,H3K27me3,"positive regulation of transcription, DNA-templated (GO:0045893)",1.219,0.000144,0.0451,496
+Astro,MT_stress,H3K27me3,renal system development (GO:0072001),1.736,0.000115,0.0451,37
+Astro,MT_stress,H3K27me3,Mesodermal commitment pathway WP2857,1.482,0.000371,0.0745,78
+Astro,MT_stress,H3K27me3,phospholipase C-activating G protein-coupled receptor signaling pathway (GO:0007200),1.599,0.000499,0.093,48
+Astro,Reactive,H3K27ac,UV Response Dn,1.79,1.95e-07,3e-04,138
+Astro,Reactive,H3K27ac,axonogenesis (GO:0007409),1.623,1.25e-07,3e-04,238
+Astro,Reactive,H3K27ac,positive regulation of nucleic acid-templated transcription (GO:1903508),1.474,9.18e-08,3e-04,489
+Astro,Reactive,H3K27ac,protein phosphorylation (GO:0006468),1.468,2.39e-07,3e-04,475
+Astro,Reactive,H3K27ac,TNF-alpha Signaling via NF-kB,1.627,8.64e-07,7e-04,189
+Astro,Reactive,H3K27ac,regulation of cell migration (GO:0030334),1.483,9.16e-07,7e-04,383
+Astro,Reactive,H3K27ac,phosphorylation (GO:0016310),1.482,1.55e-06,0.001,378
+Astro,Reactive,H3K27ac,positive regulation of protein metabolic process (GO:0051247),1.775,1.77e-06,0.001,105
+Astro,Reactive,H3K27ac,Calcium signaling pathway,1.544,2.42e-06,0.0012,236
+Astro,Reactive,H3K27ac,positive regulation of protein catabolic process (GO:0045732),1.844,3.35e-06,0.0015,78
+Astro,Reactive,H3K27ac,Hippo signaling pathway,1.64,3.77e-06,0.0016,158
+Astro,Reactive,H3K27ac,Androgen Response,1.779,5.15e-06,0.0017,95
+Astro,Reactive,H3K27ac,Axon guidance,1.603,5.22e-06,0.0017,181
+Astro,Reactive,H3K27ac,neuron projection morphogenesis (GO:0048812),1.689,4.94e-06,0.0017,134
+Astro,Reactive,H3K27ac,Dopaminergic synapse,1.687,6.88e-06,0.0018,129
+Astro,Reactive,H3K27ac,Hedgehog Signaling,2.037,7.07e-06,0.0018,36
+Astro,Reactive,H3K27ac,regulation of cell-matrix adhesion (GO:0001952),1.886,6.47e-06,0.0018,60
+Astro,Reactive,H3K27ac,regulation of dendrite development (GO:0050773),2.033,6.85e-06,0.0018,38
+Astro,Reactive,H3K27ac,Focal Adhesion-PI3K-Akt-mTOR-signaling pathway WP3932,1.47,7.71e-06,0.0019,290
+Astro,Reactive,H3K27ac,axon guidance (GO:0007411),1.58,8.27e-06,0.0019,201
+Astro,Reactive,H3K27ac,positive regulation of catabolic process (GO:0009896),1.866,9.39e-06,0.0021,57
+Astro,Reactive,H3K27ac,positive regulation of cell differentiation (GO:0045597),1.524,1.01e-05,0.0021,249
+Astro,Reactive,H3K27ac,circulatory system development (GO:0072359),1.655,1.1e-05,0.0022,120
+Astro,Reactive,H3K27ac,Adherens junction,1.87,1.23e-05,0.0023,70
+Astro,Reactive,H3K27ac,cGMP-PKG signaling pathway,1.607,1.19e-05,0.0023,159
+Astro,Reactive,H3K27ac,PI3K-Akt signaling pathway,1.447,1.3e-05,0.0023,337
+Astro,Reactive,H3K27ac,regulation of protein catabolic process (GO:0042176),1.738,1.4e-05,0.0024,92
+Astro,Reactive,H3K27ac,Endoderm differentiation WP2853,1.647,1.61e-05,0.0026,139
+Astro,Reactive,H3K27ac,transmembrane receptor protein tyrosine kinase signaling pathway (GO:0007169),1.42,1.61e-05,0.0026,393
+Astro,Reactive,H3K27ac,positive regulation of multicellular organismal process (GO:0051240),1.445,1.88e-05,0.0029,325
+Astro,Reactive,H3K27ac,peptidyl-threonine modification (GO:0018210),1.818,2.22e-05,0.0033,66
+Astro,Reactive,H3K27ac,Rap1 signaling pathway,1.548,2.47e-05,0.0036,201
+Astro,Reactive,H3K27ac,neuron migration (GO:0001764),1.889,2.73e-05,0.0038,48
+Astro,Reactive,H3K27ac,negative regulation of nucleic acid-templated transcription (GO:1903507),1.387,2.95e-05,0.004,438
+Astro,Reactive,H3K27ac,regulation of anatomical structure morphogenesis (GO:0022603),1.647,3.34e-05,0.0044,116
+Astro,Reactive,H3K27ac,Thyroid hormone signaling pathway,1.625,3.45e-05,0.0044,118
+Astro,Reactive,H3K27ac,Focal adhesion,1.535,5.25e-05,0.0065,197
+Astro,Reactive,H3K27ac,Splicing factor NOVA regulated synaptic proteins WP4148,1.878,5.55e-05,0.0066,40
+Astro,Reactive,H3K27ac,cell-cell adhesion via plasma-membrane adhesion molecules (GO:0098742),1.544,5.42e-05,0.0066,147
+Astro,Reactive,H3K27ac,positive regulation of epithelial cell migration (GO:0010634),1.674,6.71e-05,0.0077,89
+Astro,Reactive,H3K27ac,generation of neurons (GO:0048699),1.531,7.05e-05,0.0079,197
+Astro,Reactive,H3K27ac,regulation of cell adhesion (GO:0030155),1.58,7.28e-05,0.008,127
+Astro,Reactive,H3K27ac,Chromosomal and microsatellite instability in colorectal cancer  WP4216,1.733,7.62e-05,0.0081,72
+Astro,Reactive,H3K27ac,regulation of neuron projection development (GO:0010975),1.519,7.73e-05,0.0081,157
+Astro,Reactive,H3K27ac,Neural Crest Differentiation WP2064,1.636,8.52e-05,0.0087,99
+Astro,Reactive,H3K27ac,Glycosaminoglycan biosynthesis,1.802,9.1e-05,0.0091,52
+Astro,Reactive,H3K27ac,Osteoblast differentiation WP4787,1.582,9.53e-05,0.0094,118
+Astro,Reactive,H3K27ac,Brain-derived neurotrophic factor (BDNF) signaling pathway WP2380,1.584,9.87e-05,0.0094,143
+Astro,Reactive,H3K27ac,PI3K-Akt signaling pathway WP4172,1.398,9.98e-05,0.0094,325
+Astro,Reactive,H3K27ac,Glycogen Synthesis and Degradation WP500,1.887,0.000105,0.0097,38
+Astro,Reactive,H3K27ac,Focal Adhesion WP306,1.483,0.000112,0.0102,194
+Astro,Reactive,H3K27ac,Notch Signaling Pathway Netpath WP61,1.726,0.000117,0.0104,60
+Astro,Reactive,H3K27ac,Gastrin signaling pathway WP4659,1.6,0.000121,0.0106,112
+Astro,Reactive,H3K27ac,Hypoxia,1.492,0.00013,0.0111,185
+Astro,Reactive,H3K27ac,heart development (GO:0007507),1.535,0.000135,0.0111,156
+Astro,Reactive,H3K27ac,positive regulation of cell adhesion (GO:0045785),1.684,0.000135,0.0111,73
+Astro,Reactive,H3K27ac,regulation of signal transduction (GO:0009966),1.483,0.000144,0.0117,189
+Astro,Reactive,H3K27ac,Wnt signaling pathway,1.51,0.000151,0.012,162
+Astro,Reactive,H3K27ac,cellular response to growth factor stimulus (GO:0071363),1.519,0.000162,0.0125,150
+Astro,Reactive,H3K27ac,positive regulation of metabolic process (GO:0009893),1.589,0.00016,0.0125,108
+Astro,Reactive,H3K27ac,cellular response to transforming growth factor beta stimulus (GO:0071560),1.586,0.000183,0.0138,111
+Astro,Reactive,H3K27ac,Oxytocin signaling pathway,1.513,0.000201,0.0146,149
+Astro,Reactive,H3K27ac,VEGFA-VEGFR2 Signaling Pathway WP3888,1.339,0.000203,0.0146,419
+Astro,Reactive,H3K27ac,fat cell differentiation (GO:0045444),1.748,0.000203,0.0146,56
+Astro,Reactive,H3K27ac,glycogen metabolic process (GO:0005977),1.913,0.000207,0.0147,26
+Astro,Reactive,H3K27ac,Mesodermal commitment pathway WP2857,1.553,0.000217,0.0149,143
+Astro,Reactive,H3K27ac,establishment or maintenance of epithelial cell apical/basal polarity (GO:0045197),1.879,0.000215,0.0149,30
+Astro,Reactive,H3K27ac,Heart Development WP1591,1.811,0.000236,0.0153,43
+Astro,Reactive,H3K27ac,Integrated breast cancer pathway WP1984,1.498,0.000235,0.0153,147
+Astro,Reactive,H3K27ac,positive regulation of signal transduction (GO:0009967),1.399,0.000235,0.0153,238
+Astro,Reactive,H3K27ac,regulation of MAPK cascade (GO:0043408),1.511,0.000228,0.0153,159
+Astro,Reactive,H3K27ac,negative regulation of potassium ion transport (GO:0043267),2.04,0.000249,0.0159,13
+Astro,Reactive,H3K27ac,Fc-gamma receptor signaling pathway involved in phagocytosis (GO:0038096),1.68,0.000271,0.0169,66
+Astro,Reactive,H3K27ac,positive regulation of cold-induced thermogenesis (GO:0120162),1.584,0.000271,0.0169,94
+Astro,Reactive,H3K27ac,regulation of cell motility (GO:2000145),1.523,0.000298,0.0184,123
+Astro,Reactive,H3K27ac,peptidyl-threonine phosphorylation (GO:0018107),1.736,0.000321,0.0195,59
+Astro,Reactive,H3K27ac,regulation of mesenchymal cell proliferation (GO:0010464),2.006,0.000324,0.0195,11
+Astro,Reactive,H3K27ac,negative regulation of signal transduction (GO:0009968),1.399,0.00033,0.0196,250
+Astro,Reactive,H3K27ac,positive regulation of cell migration (GO:0030335),1.398,0.000344,0.0201,250
+Astro,Reactive,H3K27ac,neuron differentiation (GO:0030182),1.472,0.000349,0.0201,171
+Astro,Reactive,H3K27ac,Ectoderm Differentiation WP2858,1.524,0.000371,0.0207,134
+Astro,Reactive,H3K27ac,Fc-gamma receptor signaling pathway (GO:0038094),1.667,0.000372,0.0207,67
+Astro,Reactive,H3K27ac,negative regulation of response to stimulus (GO:0048585),1.664,0.000372,0.0207,57
+Astro,Reactive,H3K27ac,regulation of sodium ion transmembrane transporter activity (GO:2000649),1.777,0.000378,0.0208,40
+Astro,Reactive,H3K27ac,positive regulation of cellular catabolic process (GO:0031331),1.523,0.00039,0.0212,131
+Astro,Reactive,H3K27ac,Fc receptor mediated stimulatory signaling pathway (GO:0002431),1.69,0.000408,0.0212,69
+Astro,Reactive,H3K27ac,Mitochondrial Gene Expression WP391,1.916,0.000397,0.0212,19
+Astro,Reactive,H3K27ac,Proteoglycans in cancer,1.439,0.000408,0.0212,199
+Astro,Reactive,H3K27ac,Regulation of actin cytoskeleton,1.429,0.000417,0.0212,211
+Astro,Reactive,H3K27ac,Wnt-beta Catenin Signaling,1.785,0.000419,0.0212,42
+Astro,Reactive,H3K27ac,cellular response to oxidative stress (GO:0034599),1.523,0.000417,0.0212,120
+Astro,Reactive,H3K27ac,MicroRNAs in cardiomyocyte hypertrophy WP1544,1.562,0.000458,0.0228,82
+Astro,Reactive,H3K27ac,Prolactin Signaling Pathway WP2037,1.615,0.000472,0.0228,75
+Astro,Reactive,H3K27ac,Vitamin D-sensitive calcium signaling in depression WP4698,1.782,0.000465,0.0228,39
+Astro,Reactive,H3K27ac,negative regulation of ion transmembrane transporter activity (GO:0032413),1.919,0.000475,0.0228,20
+Astro,Reactive,H3K27ac,regulation of protein kinase B signaling (GO:0051896),1.434,0.000463,0.0228,199
+Astro,Reactive,H3K27ac,regulation of fatty acid oxidation (GO:0046320),1.91,5e-04,0.0238,16
+Astro,Reactive,H3K27ac,cell junction assembly (GO:0034329),1.57,0.000517,0.0244,90
+Astro,Reactive,H3K27ac,CAMKK2  Pathway WP4874,1.833,0.000559,0.0252,34
+Astro,Reactive,H3K27ac,ESC Pluripotency Pathways WP3931,1.503,0.000554,0.0252,115
+Astro,Reactive,H3K27ac,Pathways Regulating Hippo Signaling WP4540,1.576,0.000563,0.0252,96
+Astro,Reactive,H3K27ac,Regulation of Actin Cytoskeleton WP51,1.472,0.000572,0.0252,148
+Astro,Reactive,H3K27ac,positive regulation of epithelial cell proliferation (GO:0050679),1.499,0.000572,0.0252,117
+Astro,Reactive,H3K27ac,regulation of axonogenesis (GO:0050770),1.703,0.000565,0.0252,50
+Astro,Reactive,H3K27ac,regulation of endothelial cell migration (GO:0010594),1.619,0.000572,0.0252,85
+Astro,Reactive,H3K27ac,epithelial tube morphogenesis (GO:0060562),1.822,0.000633,0.0273,34
+Astro,Reactive,H3K27ac,glutamate receptor signaling pathway (GO:0007215),1.802,0.000632,0.0273,37
+Astro,Reactive,H3K27ac,Myometrial relaxation and contraction pathways WP289,1.462,0.000655,0.0278,153
+Astro,Reactive,H3K27ac,T-Cell Receptor and Co-stimulatory Signaling WP2583,1.829,0.000655,0.0278,29
+Astro,Reactive,H3K27ac,actin cytoskeleton reorganization (GO:0031532),1.68,0.000674,0.0283,61
+Astro,Reactive,H3K27ac,Adipogenesis WP236,1.536,0.000728,0.0289,124
+Astro,Reactive,H3K27ac,Calcium Regulation in the Cardiac Cell WP536,1.463,0.00071,0.0289,148
+Astro,Reactive,H3K27ac,Pathways in clear cell renal cell carcinoma WP4018,1.561,0.000719,0.0289,78
+Astro,Reactive,H3K27ac,cellular response to ketone (GO:1901655),1.77,0.000732,0.0289,38
+Astro,Reactive,H3K27ac,lamellipodium assembly (GO:0030032),1.827,0.000724,0.0289,26
+Astro,Reactive,H3K27ac,positive regulation of developmental process (GO:0051094),1.446,0.00071,0.0289,164
+Astro,Reactive,H3K27ac,regulation of canonical Wnt signaling pathway (GO:0060828),1.379,0.000728,0.0289,245
+Astro,Reactive,H3K27ac,AMPK signaling pathway,1.517,0.000756,0.0295,114
+Astro,Reactive,H3K27ac,ventricular septum development (GO:0003281),1.768,0.00076,0.0295,38
+Astro,Reactive,H3K27ac,axon development (GO:0061564),1.59,0.000774,0.0298,79
+Astro,Reactive,H3K27ac,regulation of JNK cascade (GO:0046328),1.517,0.000783,0.0299,101
+Astro,Reactive,H3K27ac,Aldosterone synthesis and secretion,1.559,0.000792,0.03,96
+Astro,Reactive,H3K27ac,regulation of cardiac muscle contraction (GO:0055117),1.784,0.000799,0.03,35
+Astro,Reactive,H3K27ac,negative regulation of cell population proliferation (GO:0008285),1.307,0.000811,0.0302,359
+Astro,Reactive,H3K27ac,outflow tract septum morphogenesis (GO:0003148),1.851,0.000819,0.0302,25
+Astro,Reactive,H3K27ac,regulation of cell-cell adhesion (GO:0022407),1.74,0.000823,0.0302,41
+Astro,Reactive,H3K27ac,negative regulation of cell-substrate adhesion (GO:0010812),1.757,0.000843,0.0306,38
+Astro,Reactive,H3K27ac,vascular endothelial growth factor receptor signaling pathway (GO:0048010),1.673,0.000884,0.0319,64
+Astro,Reactive,H3K27ac,cell morphogenesis involved in neuron differentiation (GO:0048667),1.588,0.000893,0.032,75
+Astro,Reactive,H3K27ac,enzyme linked receptor protein signaling pathway (GO:0007167),1.489,0.000902,0.032,138
+Astro,Reactive,H3K27ac,lamellipodium organization (GO:0097581),1.788,0.000943,0.0328,29
+Astro,Reactive,H3K27ac,regulation of osteoblast differentiation (GO:0045667),1.578,0.00093,0.0328,79
+Astro,Reactive,H3K27ac,regulation of receptor internalization (GO:0002090),1.753,0.000937,0.0328,36
+Astro,Reactive,H3K27ac,Transcription factor regulation in adipogenesis WP3599,1.867,0.001,0.0342,21
+Astro,Reactive,H3K27ac,cellular biogenic amine catabolic process (GO:0042402),1.882,0.001,0.0342,10
+Astro,Reactive,H3K27ac,Endometrial cancer WP4155,1.637,0.00104,0.0353,63
+Astro,Reactive,H3K27ac,Mammalian disorder of sexual development WP4842,1.821,0.00111,0.0373,22
+Astro,Reactive,H3K27ac,nervous system development (GO:0007399),1.29,0.00111,0.0373,415
+Astro,Reactive,H3K27ac,Notch signaling pathway (GO:0007219),1.633,0.00113,0.0374,58
+Astro,Reactive,H3K27ac,Oncostatin M Signaling Pathway WP2374,1.625,0.00113,0.0374,65
+Astro,Reactive,H3K27ac,positive regulation of macromolecule metabolic process (GO:0010604),1.306,0.00119,0.0386,361
+Astro,Reactive,H3K27ac,synapse organization (GO:0050808),1.48,0.00119,0.0386,116
+Astro,Reactive,H3K27ac,regulation of Wnt signaling pathway (GO:0030111),1.492,0.00122,0.0395,110
+Astro,Reactive,H3K27ac,Human papillomavirus infection,1.31,0.00128,0.0402,319
+Astro,Reactive,H3K27ac,Sudden Infant Death Syndrome (SIDS) Susceptibility Pathways WP706,1.452,0.00128,0.0402,152
+Astro,Reactive,H3K27ac,negative regulation of cell migration (GO:0030336),1.45,0.00128,0.0402,137
+Astro,Reactive,H3K27ac,regulation of hydrolase activity (GO:0051336),1.566,0.00128,0.0402,71
+Astro,Reactive,H3K27ac,Proteoglycan biosynthesis WP4784,1.844,0.00136,0.0425,18
+Astro,Reactive,H3K27ac,positive regulation of epithelial to mesenchymal transition (GO:0010718),1.708,0.0014,0.0432,42
+Astro,Reactive,H3K27ac,regulation of cardiac muscle hypertrophy (GO:0010611),1.812,0.00144,0.0444,24
+Astro,Reactive,H3K27ac,cAMP signaling pathway,1.369,0.00154,0.047,208
+Astro,Reactive,H3K27ac,regulation of anoikis (GO:2000209),1.832,0.00167,0.0507,18
+Astro,Reactive,H3K27ac,regulation of protein phosphorylation (GO:0001932),1.343,0.0017,0.0513,253
+Astro,Reactive,H3K27ac,response to chemokine (GO:1990868),1.906,0.00174,0.0522,12
+Astro,Reactive,H3K27ac,Adrenergic signaling in cardiomyocytes,1.433,0.0019,0.0525,146
+Astro,Reactive,H3K27ac,Colorectal cancer,1.52,0.0019,0.0525,85
+Astro,Reactive,H3K27ac,Thyroid stimulating hormone (TSH) signaling pathway WP2032,1.57,0.0019,0.0525,64
+Astro,Reactive,H3K27ac,gonad development (GO:0008406),1.671,0.0018,0.0525,47
+Astro,Reactive,H3K27ac,hippo signaling (GO:0035329),1.785,0.00187,0.0525,25
+Astro,Reactive,H3K27ac,negative regulation of anoikis (GO:2000811),1.908,0.00184,0.0525,14
+Astro,Reactive,H3K27ac,positive regulation of cell population proliferation (GO:0008284),1.275,0.0019,0.0525,455
+Astro,Reactive,H3K27ac,positive regulation of protein kinase B signaling (GO:0051897),1.429,0.0019,0.0525,155
+Astro,Reactive,H3K27ac,positive regulation of transcription of Notch receptor target (GO:0007221),1.815,0.0019,0.0525,17
+Astro,Reactive,H3K27ac,regulation of angiogenesis (GO:0045765),1.398,0.0018,0.0525,189
+Astro,Reactive,H3K27ac,regulation of cell-substrate junction assembly (GO:0090109),1.803,0.00187,0.0525,20
+Astro,Reactive,H3K27ac,secondary palate development (GO:0062009),1.857,0.00182,0.0525,14
+Astro,Reactive,H3K27ac,ventricular septum morphogenesis (GO:0060412),1.784,0.00183,0.0525,28
+Astro,Reactive,H3K27ac,beta-catenin-TCF complex assembly (GO:1904837),1.76,0.00193,0.053,29
+Astro,Reactive,H3K27ac,Myogenesis,1.38,0.002,0.0539,192
+Astro,Reactive,H3K27ac,neuron development (GO:0048666),1.444,0.002,0.0539,138
+Astro,Reactive,H3K27ac,positive regulation of DNA-binding transcription factor activity (GO:0051091),1.352,0.00198,0.0539,237
+Astro,Reactive,H3K27ac,positive regulation of cell-cell adhesion (GO:0022409),1.69,0.00201,0.0539,42
+Astro,Reactive,H3K27ac,"Parathyroid hormone synthesis, secretion and action",1.491,0.0021,0.0554,103
+Astro,Reactive,H3K27ac,negative regulation of apoptotic signaling pathway (GO:2001234),1.563,0.0021,0.0554,69
+Astro,Reactive,H3K27ac,organelle organization (GO:0006996),1.285,0.0021,0.0554,381
+Astro,Reactive,H3K27ac,glycosaminoglycan biosynthetic process (GO:0006024),1.519,0.00213,0.0555,95
+Astro,Reactive,H3K27ac,membrane fusion (GO:0061025),1.737,0.00212,0.0555,33
+Astro,Reactive,H3K27ac,modulation of chemical synaptic transmission (GO:0050804),1.471,0.0022,0.0562,106
+Astro,Reactive,H3K27ac,positive regulation of apoptotic process (GO:0043065),1.311,0.0022,0.0562,294
+Astro,Reactive,H3K27ac,regulation of cell communication by electrical coupling (GO:0010649),1.884,0.0022,0.0562,12
+Astro,Reactive,H3K27ac,regulation of intracellular signal transduction (GO:1902531),1.276,0.0022,0.0562,416
+Astro,Reactive,H3K27ac,negative regulation of androgen receptor signaling pathway (GO:0060766),1.829,0.00225,0.057,14
+Astro,Reactive,H3K27ac,The Overlap Between Signal Transduction Pathways that Contribute to a Range of LMNA Laminopathies WP4879,1.606,0.0023,0.0571,55
+Astro,Reactive,H3K27ac,glycerophospholipid biosynthetic process (GO:0046474),1.397,0.0023,0.0571,172
+Astro,Reactive,H3K27ac,positive regulation of cell projection organization (GO:0031346),1.455,0.0023,0.0571,113
+Astro,Reactive,H3K27ac,positive regulation of phosphatidylinositol 3-kinase signaling (GO:0014068),1.537,0.0023,0.0571,74
+Astro,Reactive,H3K27ac,Prion disease pathway WP3995,1.726,0.00233,0.0574,32
+Astro,Reactive,H3K27ac,Transcriptional misregulation in cancer,1.4,0.0024,0.0586,163
+Astro,Reactive,H3K27ac,positive regulation of programmed cell death (GO:0043068),1.315,0.0024,0.0586,273
+Astro,Reactive,H3K27ac,regulation of membrane depolarization (GO:0003254),1.79,0.00241,0.0586,18
+Astro,Reactive,H3K27ac,Adipogenesis,1.379,0.0025,0.0589,186
+Astro,Reactive,H3K27ac,Epithelial Mesenchymal Transition,1.368,0.0025,0.0589,194
+Astro,Reactive,H3K27ac,HIF-1 signaling pathway,1.487,0.0025,0.0589,101
+Astro,Reactive,H3K27ac,cellular polysaccharide catabolic process (GO:0044247),1.816,0.00244,0.0589,16
+Astro,Reactive,H3K27ac,regulation of NIK/NF-kappaB signaling (GO:1901222),1.585,0.0025,0.0589,69
+Astro,Reactive,H3K27ac,regulation of type B pancreatic cell development (GO:2000074),1.853,0.00247,0.0589,10
+Astro,Reactive,H3K27ac,Rac protein signal transduction (GO:0016601),1.784,0.00252,0.059,18
+Astro,Reactive,H3K27ac,positive regulation of cell motility (GO:2000147),1.354,0.0026,0.0603,205
+Astro,Reactive,H3K27ac,regulation of pri-miRNA transcription by RNA polymerase II (GO:1902893),1.667,0.00261,0.0603,43
+Astro,Reactive,H3K27ac,sulfur compound biosynthetic process (GO:0044272),1.462,0.0026,0.0603,107
+Astro,Reactive,H3K27ac,regulation of striated muscle contraction (GO:0006942),1.734,0.00264,0.0606,29
+Astro,Reactive,H3K27ac,Energy Metabolism WP1541,1.661,0.00271,0.0613,44
+Astro,Reactive,H3K27ac,Glucagon signaling pathway,1.487,0.0027,0.0613,99
+Astro,Reactive,H3K27ac,ephrin receptor signaling pathway (GO:0048013),1.507,0.0027,0.0613,81
+Astro,Reactive,H3K27ac,positive regulation of axonogenesis (GO:0050772),1.663,0.00281,0.0633,42
+Astro,Reactive,H3K27ac,cellular response to interleukin-6 (GO:0071354),1.707,0.00285,0.0638,28
+Astro,Reactive,H3K27ac,Renin-angiotensin-aldosterone system (RAAS) WP4756,1.652,0.00291,0.0649,41
+Astro,Reactive,H3K27ac,regulation of potassium ion transport (GO:0043266),1.712,0.00294,0.0652,31
+Astro,Reactive,H3K27ac,Omega-9 FA synthesis WP4724,1.786,0.003,0.0662,14
+Astro,Reactive,H3K27ac,detection of calcium ion (GO:0005513),1.796,0.00306,0.0673,12
+Astro,Reactive,H3K27ac,EGFR Tyrosine Kinase Inhibitor Resistance WP4806,1.497,0.0031,0.0678,83
+Astro,Reactive,H3K27ac,Thyroid cancer,1.68,0.00312,0.068,37
+Astro,Reactive,H3K27ac,Insulin secretion,1.494,0.0032,0.0683,83
+Astro,Reactive,H3K27ac,Phosphodiesterases in neuronal function WP4222,1.612,0.00321,0.0683,49
+Astro,Reactive,H3K27ac,fatty acid catabolic process (GO:0009062),1.538,0.0032,0.0683,67
+Astro,Reactive,H3K27ac,monocarboxylic acid catabolic process (GO:0072329),1.721,0.00316,0.0683,27
+Astro,Reactive,H3K27ac,regulation of phosphatidylinositol 3-kinase signaling (GO:0014066),1.472,0.0032,0.0683,101
+Astro,Reactive,H3K27ac,neuron projection development (GO:0031175),1.388,0.0033,0.0696,163
+Astro,Reactive,H3K27ac,transmembrane receptor protein serine/threonine kinase signaling pathway (GO:0007178),1.408,0.0033,0.0696,128
+Astro,Reactive,H3K27ac,negative regulation of sodium ion transmembrane transporter activity (GO:2000650),1.803,0.00336,0.0706,10
+Astro,Reactive,H3K27ac,Photodynamic therapy-induced HIF-1 survival signaling WP3614,1.659,0.00343,0.0713,36
+Astro,Reactive,H3K27ac,vesicle cytoskeletal trafficking (GO:0099518),1.657,0.00343,0.0713,36
+Astro,Reactive,H3K27ac,negative regulation of potassium ion transmembrane transport (GO:1901380),1.824,0.00353,0.0731,11
+Astro,Reactive,H3K27ac,Endochondral Ossification WP474,1.538,0.0036,0.0739,63
+Astro,Reactive,H3K27ac,Endochondral Ossification with Skeletal Dysplasias WP4808,1.538,0.0036,0.0739,63
+Astro,Reactive,H3K27ac,regulation of DNA biosynthetic process (GO:2000278),1.706,0.00367,0.0749,27
+Astro,Reactive,H3K27ac,cell-substrate junction assembly (GO:0007044),1.676,0.00374,0.0761,33
+Astro,Reactive,H3K27ac,cellular response to organic cyclic compound (GO:0071407),1.394,0.0038,0.0762,142
+Astro,Reactive,H3K27ac,positive regulation of DNA metabolic process (GO:0051054),1.567,0.0038,0.0762,56
+Astro,Reactive,H3K27ac,regulation of calcium ion transport (GO:0051924),1.609,0.00381,0.0762,48
+Astro,Reactive,H3K27ac,regulation of keratinocyte proliferation (GO:0010837),1.739,0.0038,0.0762,23
+Astro,Reactive,H3K27ac,Circadian entrainment,1.466,0.0039,0.0776,94
+Astro,Reactive,H3K27ac,positive regulation of kinase activity (GO:0033674),1.43,0.004,0.0787,110
+Astro,Reactive,H3K27ac,positive regulation of mRNA metabolic process (GO:1903313),1.78,0.004,0.0787,13
+Astro,Reactive,H3K27ac,regulation of potassium ion transmembrane transport (GO:1901379),1.575,0.004,0.0787,54
+Astro,Reactive,H3K27ac,Asthma,-1.797,0.00408,0.0797,24
+Astro,Reactive,H3K27ac,negative regulation of DNA-binding transcription factor activity (GO:0043433),1.406,0.0041,0.0799,133
+Astro,Reactive,H3K27ac,Arrhythmogenic Right Ventricular Cardiomyopathy WP2118,1.502,0.0042,0.0803,73
+Astro,Reactive,H3K27ac,positive regulation of MAPK cascade (GO:0043410),1.307,0.0042,0.0803,241
+Astro,Reactive,H3K27ac,positive regulation of T cell migration (GO:2000406),1.726,0.00417,0.0803,19
+Astro,Reactive,H3K27ac,regulation of epithelial cell migration (GO:0010632),1.595,0.00421,0.0803,49
+Astro,Reactive,H3K27ac,response to calcium ion (GO:0051592),1.459,0.0042,0.0803,101
+Astro,Reactive,H3K27ac,Glycolysis,1.351,0.0044,0.0829,188
+Astro,Reactive,H3K27ac,Mitotic Spindle,1.347,0.0044,0.0829,192
+Astro,Reactive,H3K27ac,positive regulation of cardiac muscle cell proliferation (GO:0060045),1.77,0.00439,0.0829,14
+Astro,Reactive,H3K27ac,regulation of smooth muscle cell proliferation (GO:0048660),1.619,0.00442,0.0829,44
+Astro,Reactive,H3K27ac,Notch Signaling,1.671,0.00446,0.083,31
+Astro,Reactive,H3K27ac,regulation of trans-synaptic signaling (GO:0099177),1.66,0.00445,0.083,33
+Astro,Reactive,H3K27ac,glucan catabolic process (GO:0009251),1.75,0.00448,0.083,15
+Astro,Reactive,H3K27ac,cellular component assembly (GO:0022607),1.303,0.0045,0.0831,243
+Astro,Reactive,H3K27ac,Cardiac Hypertrophic Response WP2795,1.566,0.00461,0.0837,53
+Astro,Reactive,H3K27ac,Physiological and pathological hypertrophy of the heart WP1528,1.702,0.00461,0.0837,24
+Astro,Reactive,H3K27ac,negative regulation of protein serine/threonine kinase activity (GO:0071901),1.503,0.0046,0.0837,74
+Astro,Reactive,H3K27ac,positive regulation of receptor internalization (GO:0002092),1.709,0.00462,0.0837,23
+Astro,Reactive,H3K27ac,regulation of transmembrane receptor protein serine/threonine kinase signaling pathway (GO:0090092),1.667,0.00456,0.0837,31
+Astro,Reactive,H3K27ac,cell-cell junction organization (GO:0045216),1.493,0.0047,0.0848,78
+Astro,Reactive,H3K27ac,Melatonin metabolism and effects WP3298,1.65,0.00474,0.0852,35
+Astro,Reactive,H3K27ac,regulation of dendrite morphogenesis (GO:0048814),1.663,0.00486,0.087,31
+Astro,Reactive,H3K27ac,positive regulation of CREB transcription factor activity (GO:0032793),1.732,0.00493,0.0878,18
+Astro,Reactive,H3K27ac,negative regulation of developmental process (GO:0051093),1.494,0.005,0.0883,70
+Astro,Reactive,H3K27ac,positive regulation of SMAD protein signal transduction (GO:0060391),1.757,0.00503,0.0883,14
+Astro,Reactive,H3K27ac,positive regulation of neuron death (GO:1901216),1.61,0.00502,0.0883,43
+Astro,Reactive,H3K27ac,regulation of interleukin-1 production (GO:0032652),1.755,0.00503,0.0883,14
+Astro,Reactive,H3K27ac,Hepatitis B infection WP4666,1.377,0.0051,0.0888,144
+Astro,Reactive,H3K27ac,MAPK signaling pathway,1.286,0.0051,0.0888,289
+Astro,Reactive,H3K27ac,positive regulation of cardiac muscle tissue growth (GO:0055023),1.722,0.00516,0.0896,17
+Astro,Reactive,H3K27ac,Genes controlling nephrogenesis WP4823,1.612,0.00522,0.0903,40
+Astro,Reactive,H3K27ac,regulation of fibroblast growth factor receptor signaling pathway (GO:0040036),1.708,0.00529,0.0911,20
+Astro,Reactive,H3K27ac,Development of ureteric collection system WP5053,1.589,0.00531,0.0912,46
+Astro,Reactive,H3K27ac,brain development (GO:0007420),1.382,0.0054,0.0923,139
+Astro,Reactive,H3K27ac,PDGF Pathway WP2526,1.62,0.00544,0.0927,37
+Astro,Reactive,H3K27ac,Choline metabolism in cancer,1.447,0.0055,0.093,98
+Astro,Reactive,H3K27ac,Wnt signaling WP428,1.411,0.0055,0.093,113
+Astro,Reactive,H3K27ac,Wnt signaling pathway and pluripotency WP399,1.441,0.0056,0.0933,100
+Astro,Reactive,H3K27ac,cellular calcium ion homeostasis (GO:0006874),1.393,0.0056,0.0933,122
+Astro,Reactive,H3K27ac,positive regulation of protein phosphorylation (GO:0001934),1.261,0.0056,0.0933,353
+Astro,Reactive,H3K27ac,regulation of endothelial cell proliferation (GO:0001936),1.46,0.0056,0.0933,84
+Astro,Reactive,H3K27ac,calcium-dependent cell-cell adhesion via plasma membrane cell adhesion molecules (GO:0016339),1.677,0.00562,0.0933,25
+Astro,Reactive,H3K27ac,Immune response to tuberculosis WP4197,1.683,0.00565,0.0935,23
+Astro,Reactive,H3K27ac,transforming growth factor beta receptor signaling pathway (GO:0007179),1.459,0.0057,0.094,86
+Astro,Reactive,H3K27ac,actin filament-based transport (GO:0099515),1.71,0.00584,0.0952,19
+Astro,Reactive,H3K27ac,alpha-linolenic acid metabolic process (GO:0036109),1.742,0.00583,0.0952,13
+Astro,Reactive,H3K27ac,central nervous system neuron differentiation (GO:0021953),1.639,0.00586,0.0952,34
+Astro,Reactive,H3K27ac,response to growth factor (GO:0070848),1.604,0.00583,0.0952,39
+Astro,Reactive,H3K27ac,organonitrogen compound biosynthetic process (GO:1901566),1.367,0.0059,0.0952,150
+Astro,Reactive,H3K27ac,plasma membrane bounded cell projection organization (GO:0120036),1.386,0.0059,0.0952,125
+Astro,Reactive,H3K27ac,protein autophosphorylation (GO:0046777),1.366,0.006,0.0965,156
+Astro,Reactive,H3K27ac,Arrhythmogenic right ventricular cardiomyopathy,1.481,0.0061,0.0969,76
+Astro,Reactive,H3K27ac,negative regulation of intracellular steroid hormone receptor signaling pathway (GO:0033144),1.652,0.00608,0.0969,30
+Astro,Reactive,H3K27ac,positive regulation of DNA biosynthetic process (GO:2000573),1.523,0.0061,0.0969,58
+Astro,Reactive,H3K27ac,positive regulation of neuron projection development (GO:0010976),1.458,0.0061,0.0969,85
+Astro,Reactive,H3K27ac,regulation of peptidyl-threonine phosphorylation (GO:0010799),1.61,0.00615,0.0972,37
+Astro,Reactive,H3K27ac,MicroRNAs in cancer,1.361,0.0063,0.0989,157
+Astro,Reactive,H3K27ac,synaptic vesicle transport (GO:0048489),1.753,0.00628,0.0989,10
+Astro,Reactive,H3K27me3,neuron differentiation (GO:0030182),1.781,6.69e-10,0,165
+Astro,Reactive,H3K27me3,cell-cell adhesion via plasma-membrane adhesion molecules (GO:0098742),1.7,2.32e-08,0,159
+Astro,Reactive,H3K27me3,nervous system development (GO:0007399),1.472,3.26e-08,0,410
+Astro,Reactive,H3K27me3,Mesodermal commitment pathway WP2857,1.715,5.51e-08,1e-04,139
+Astro,Reactive,H3K27me3,Neuroactive ligand-receptor interaction,1.498,1.23e-07,1e-04,330
+Astro,Reactive,H3K27me3,kidney development (GO:0001822),1.904,1.51e-07,1e-04,66
+Astro,Reactive,H3K27me3,renal system development (GO:0072001),1.955,3.81e-07,2e-04,53
+Astro,Reactive,H3K27me3,central nervous system development (GO:0007417),1.544,4.98e-07,2e-04,245
+Astro,Reactive,H3K27me3,modulation of chemical synaptic transmission (GO:0050804),1.731,4.56e-07,2e-04,107
+Astro,Reactive,H3K27me3,regulation of cation channel activity (GO:2001257),1.806,6.43e-07,3e-04,85
+Astro,Reactive,H3K27me3,Endoderm differentiation WP2853,1.663,1.29e-06,5e-04,132
+Astro,Reactive,H3K27me3,regulation of NMDA receptor activity (GO:2000310),2.002,2.58e-06,0.001,32
+Astro,Reactive,H3K27me3,neuron development (GO:0048666),1.637,2.8e-06,0.001,127
+Astro,Reactive,H3K27me3,brain development (GO:0007420),1.626,3.98e-06,0.0013,134
+Astro,Reactive,H3K27me3,GDNF/RET signaling axis WP4830,2.02,4.86e-06,0.0014,23
+Astro,Reactive,H3K27me3,UV Response Dn,1.612,4.8e-06,0.0014,135
+Astro,Reactive,H3K27me3,negative regulation of protein phosphorylation (GO:0001933),1.62,5.7e-06,0.0015,132
+Astro,Reactive,H3K27me3,Neural Crest Differentiation WP2064,1.669,8.69e-06,0.002,98
+Astro,Reactive,H3K27me3,generation of neurons (GO:0048699),1.512,8.68e-06,0.002,192
+Astro,Reactive,H3K27me3,regulation of cell migration (GO:0030334),1.383,1.22e-05,0.0027,373
+Astro,Reactive,H3K27me3,anterograde trans-synaptic signaling (GO:0098916),1.461,1.41e-05,0.0029,223
+Astro,Reactive,H3K27me3,regulation of neurotransmitter receptor activity (GO:0099601),1.79,1.44e-05,0.0029,57
+Astro,Reactive,H3K27me3,Axon guidance,1.521,1.8e-05,0.0035,168
+Astro,Reactive,H3K27me3,chordate embryonic development (GO:0043009),1.806,2.01e-05,0.0037,53
+Astro,Reactive,H3K27me3,adherens junction organization (GO:0034332),1.802,2.27e-05,0.0041,46
+Astro,Reactive,H3K27me3,Epithelial Mesenchymal Transition,1.487,2.53e-05,0.0042,187
+Astro,Reactive,H3K27me3,KRAS Signaling Up,1.486,2.61e-05,0.0042,192
+Astro,Reactive,H3K27me3,skeletal system development (GO:0001501),1.513,2.61e-05,0.0042,147
+Astro,Reactive,H3K27me3,transmembrane receptor protein tyrosine kinase signaling pathway (GO:0007169),1.389,2.83e-05,0.0044,353
+Astro,Reactive,H3K27me3,Development of ureteric collection system WP5053,1.792,2.97e-05,0.0044,46
+Astro,Reactive,H3K27me3,Ectoderm Differentiation WP2858,1.562,3.56e-05,0.005,132
+Astro,Reactive,H3K27me3,"regulation of synaptic transmission, glutamatergic (GO:0051966)",1.783,3.53e-05,0.005,46
+Astro,Reactive,H3K27me3,Glycosaminoglycan biosynthesis,1.777,3.75e-05,0.0051,52
+Astro,Reactive,H3K27me3,positive regulation of nucleic acid-templated transcription (GO:1903508),1.327,4.07e-05,0.0053,457
+Astro,Reactive,H3K27me3,heterophilic cell-cell adhesion via plasma membrane cell adhesion molecules (GO:0007157),1.832,4.46e-05,0.0057,41
+Astro,Reactive,H3K27me3,calcium-dependent cell-cell adhesion via plasma membrane cell adhesion molecules (GO:0016339),1.95,4.71e-05,0.0058,27
+Astro,Reactive,H3K27me3,ureteric bud development (GO:0001657),1.926,4.93e-05,0.006,19
+Astro,Reactive,H3K27me3,regulation of neurotransmitter secretion (GO:0046928),1.875,5.11e-05,0.006,28
+Astro,Reactive,H3K27me3,Calcium signaling pathway,1.415,8.18e-05,0.0091,228
+Astro,Reactive,H3K27me3,neuropeptide signaling pathway (GO:0007218),1.701,7.98e-05,0.0091,62
+Astro,Reactive,H3K27me3,Heart Development WP1591,1.794,8.95e-05,0.0097,42
+Astro,Reactive,H3K27me3,axon guidance (GO:0007411),1.448,9.19e-05,0.0097,192
+Astro,Reactive,H3K27me3,chemical synaptic transmission (GO:0007268),1.381,9.53e-05,0.0097,277
+Astro,Reactive,H3K27me3,regulation of neurotransmitter transport (GO:0051588),1.907,9.37e-05,0.0097,16
+Astro,Reactive,H3K27me3,negative regulation of osteoblast differentiation (GO:0045668),1.841,0.000104,0.0103,28
+Astro,Reactive,H3K27me3,cardiac right ventricle morphogenesis (GO:0003215),1.964,0.000125,0.0121,13
+Astro,Reactive,H3K27me3,dorsal/ventral pattern formation (GO:0009953),1.863,0.000148,0.0135,22
+Astro,Reactive,H3K27me3,mesonephric tubule development (GO:0072164),1.877,0.000146,0.0135,17
+Astro,Reactive,H3K27me3,negative regulation of nucleic acid-templated transcription (GO:1903507),1.316,0.000149,0.0135,406
+Astro,Reactive,H3K27me3,positive regulation of cell projection organization (GO:0031346),1.554,0.000164,0.0147,104
+Astro,Reactive,H3K27me3,heparan sulfate proteoglycan biosynthetic process (GO:0015012),1.879,0.000173,0.0152,18
+Astro,Reactive,H3K27me3,TGF-beta signaling pathway,1.588,0.000214,0.0181,85
+Astro,Reactive,H3K27me3,regulation of neuron projection development (GO:0010975),1.482,0.000212,0.0181,143
+Astro,Reactive,H3K27me3,Sudden Infant Death Syndrome (SIDS) Susceptibility Pathways WP706,1.452,0.000239,0.0188,147
+Astro,Reactive,H3K27me3,adenylate cyclase-modulating G protein-coupled receptor signaling pathway (GO:0007188),1.451,0.000239,0.0188,159
+Astro,Reactive,H3K27me3,dopaminergic neuron differentiation (GO:0071542),1.875,0.000237,0.0188,20
+Astro,Reactive,H3K27me3,positive regulation of macromolecule metabolic process (GO:0010604),1.333,0.000228,0.0188,347
+Astro,Reactive,H3K27me3,chondrocyte differentiation (GO:0002062),1.779,0.000254,0.0196,30
+Astro,Reactive,H3K27me3,regulation of potassium ion transport (GO:0043266),1.801,0.00026,0.0197,29
+Astro,Reactive,H3K27me3,heparan sulfate proteoglycan metabolic process (GO:0030201),1.87,0.000266,0.0198,20
+Astro,Reactive,H3K27me3,regulation of synapse assembly (GO:0051963),1.715,0.000306,0.0224,45
+Astro,Reactive,H3K27me3,epithelial tube morphogenesis (GO:0060562),1.755,0.000326,0.0235,34
+Astro,Reactive,H3K27me3,cell-cell junction organization (GO:0045216),1.584,0.000344,0.0244,78
+Astro,Reactive,H3K27me3,positive regulation of BMP signaling pathway (GO:0030513),1.812,0.000354,0.0247,23
+Astro,Reactive,H3K27me3,neuron projection morphogenesis (GO:0048812),1.475,0.000362,0.0249,127
+Astro,Reactive,H3K27me3,regulation of metal ion transport (GO:0010959),1.808,0.00038,0.0257,17
+Astro,Reactive,H3K27me3,regulation of neuron differentiation (GO:0045664),1.586,0.00039,0.026,74
+Astro,Reactive,H3K27me3,cardiac muscle tissue development (GO:0048738),1.673,0.000428,0.0282,51
+Astro,Reactive,H3K27me3,regulation of BMP signaling pathway (GO:0030510),1.602,0.000436,0.0283,70
+Astro,Reactive,H3K27me3,negative regulation of cell migration (GO:0030336),1.469,0.000463,0.0294,130
+Astro,Reactive,H3K27me3,negative regulation of cell motility (GO:2000146),1.505,0.000472,0.0294,104
+Astro,Reactive,H3K27me3,regulation of bone mineralization (GO:0030500),1.677,0.000474,0.0294,52
+Astro,Reactive,H3K27me3,sensory perception of mechanical stimulus (GO:0050954),1.537,0.000546,0.0334,79
+Astro,Reactive,H3K27me3,stem cell development (GO:0048864),1.807,0.000564,0.0341,16
+Astro,Reactive,H3K27me3,Cardiac Progenitor Differentiation WP2406,1.659,0.000603,0.0358,51
+Astro,Reactive,H3K27me3,regulation of cytosolic calcium ion concentration (GO:0051480),1.432,0.000609,0.0358,144
+Astro,Reactive,H3K27me3,regulation of osteoblast differentiation (GO:0045667),1.562,0.000656,0.0381,74
+Astro,Reactive,H3K27me3,negative regulation of cellular macromolecule biosynthetic process (GO:2000113),1.268,0.000728,0.0412,474
+Astro,Reactive,H3K27me3,regulation of smooth muscle contraction (GO:0006940),1.796,0.000726,0.0412,20
+Astro,Reactive,H3K27me3,positive regulation of multicellular organismal process (GO:0051240),1.303,0.000746,0.0417,315
+Astro,Reactive,H3K27me3,homophilic cell adhesion via plasma membrane adhesion molecules (GO:0007156),1.609,0.000758,0.0418,58
+Astro,Reactive,H3K27me3,regulation of epithelial to mesenchymal transition (GO:0010717),1.56,0.000766,0.0418,71
+Astro,Reactive,H3K27me3,negative regulation of multicellular organismal process (GO:0051241),1.376,0.000801,0.0428,198
+Astro,Reactive,H3K27me3,positive regulation of ossification (GO:0045778),1.681,0.000803,0.0428,36
+Astro,Reactive,H3K27me3,neuron projection development (GO:0031175),1.441,0.000856,0.045,150
+Astro,Reactive,H3K27me3,positive regulation of embryonic development (GO:0040019),1.783,0.000884,0.046,18
+Astro,Reactive,H3K27me3,adenylate cyclase-activating G protein-coupled receptor signaling pathway (GO:0007189),1.469,0.000902,0.0464,114
+Astro,Reactive,H3K27me3,negative regulation of epithelial cell proliferation (GO:0050680),1.565,0.000933,0.0474,61
+Astro,Reactive,H3K27me3,late endosome to vacuole transport via multivesicular body sorting pathway (GO:0032511),-2.03,0.000976,0.0484,14
+Astro,Reactive,H3K27me3,negative regulation of cell differentiation (GO:0045596),1.411,0.000966,0.0484,170
+Astro,Reactive,H3K27me3,positive regulation of cell differentiation (GO:0045597),1.344,0.000985,0.0484,239
+Astro,Reactive,H3K27me3,branching morphogenesis of an epithelial tube (GO:0048754),1.626,0.00105,0.0494,43
+Astro,Reactive,H3K27me3,epithelial to mesenchymal transition (GO:0001837),1.63,0.00103,0.0494,43
+Astro,Reactive,H3K27me3,regulation of axonogenesis (GO:0050770),1.646,0.00105,0.0494,45
+Astro,Reactive,H3K27me3,synapse assembly (GO:0007416),1.588,0.00102,0.0494,60
+Astro,Reactive,H3K27me3,mesenchymal cell differentiation (GO:0048762),1.611,0.00107,0.0496,48
+Astro,Reactive,H3K27me3,positive regulation of cell population proliferation (GO:0008284),1.269,0.00113,0.0522,438
+Astro,Reactive,H3K27me3,metanephros development (GO:0001656),1.743,0.00115,0.0524,26
+Astro,Reactive,H3K27me3,regulation of potassium ion transmembrane transport (GO:1901379),1.631,0.00118,0.0531,52
+Astro,Reactive,H3K27me3,Differentiation Pathway WP2848,1.612,0.00142,0.0634,46
+Astro,Reactive,H3K27me3,regulation of MAPK cascade (GO:0043408),1.423,0.00154,0.068,152
+Astro,Reactive,H3K27me3,"positive regulation of synaptic transmission, glutamatergic (GO:0051968)",1.757,0.00179,0.0774,18
+Astro,Reactive,H3K27me3,positive regulation of transmembrane receptor protein serine/threonine kinase signaling pathway (GO:0090100),1.517,0.0018,0.0774,81
+Astro,Reactive,H3K27me3,regulation of MAP kinase activity (GO:0043405),1.483,0.0018,0.0774,88
+Astro,Reactive,H3K27me3,neuron cell-cell adhesion (GO:0007158),1.755,0.00182,0.0776,16
+Astro,Reactive,H3K27me3,phospholipase C-activating G protein-coupled receptor signaling pathway (GO:0007200),1.505,0.0019,0.0789,80
+Astro,Reactive,H3K27me3,potassium ion transport (GO:0006813),1.452,0.0019,0.0789,117
+Astro,Reactive,H3K27me3,regulation of calcium ion transport (GO:0051924),1.572,0.00191,0.0789,56
+Astro,Reactive,H3K27me3,circulatory system development (GO:0072359),1.45,0.002,0.0806,112
+Astro,Reactive,H3K27me3,negative regulation of protein kinase activity (GO:0006469),1.506,0.002,0.0806,78
+Astro,Reactive,H3K27me3,regulation of transcription regulatory region DNA binding (GO:2000677),1.725,0.00197,0.0806,24
+Astro,Reactive,H3K27me3,cardiac ventricle morphogenesis (GO:0003208),1.632,0.00204,0.0807,41
+Astro,Reactive,H3K27me3,positive regulation of epithelial to mesenchymal transition (GO:0010718),1.63,0.00204,0.0807,41
+Astro,Reactive,H3K27me3,calcium ion-regulated exocytosis of neurotransmitter (GO:0048791),1.771,0.00221,0.0845,12
+Astro,Reactive,H3K27me3,catecholamine biosynthetic process (GO:0042423),1.777,0.00221,0.0845,12
+Astro,Reactive,H3K27me3,heart development (GO:0007507),1.396,0.0022,0.0845,147
+Astro,Reactive,H3K27me3,positive regulation of neuron projection development (GO:0010976),1.5,0.0022,0.0845,79
+Astro,Reactive,H3K27me3,sensory perception of sound (GO:0007605),1.497,0.0023,0.0872,82
+Astro,Reactive,H3K27me3,Protein digestion and absorption,1.46,0.0024,0.0883,101
+Astro,Reactive,H3K27me3,autonomic nervous system development (GO:0048483),1.721,0.00241,0.0883,21
+Astro,Reactive,H3K27me3,axonogenesis (GO:0007409),1.325,0.0024,0.0883,224
+Astro,Reactive,H3K27me3,fibroblast growth factor receptor signaling pathway (GO:0008543),1.546,0.00241,0.0883,57
+Astro,Reactive,H3K27me3,Focal adhesion,1.34,0.0025,0.089,186
+Astro,Reactive,H3K27me3,negative regulation of response to stimulus (GO:0048585),1.556,0.00251,0.089,55
+Astro,Reactive,H3K27me3,respiratory electron transport chain (GO:0022904),1.751,0.00251,0.089,13
+Astro,Reactive,H3K27me3,secondary palate development (GO:0062009),1.751,0.0025,0.089,14
+Astro,Reactive,H3K27me3,mesenchymal cell development (GO:0014031),1.735,0.00253,0.0891,18
+Astro,Reactive,H3K27me3,mesonephros development (GO:0001823),1.752,0.00258,0.0901,11
+Astro,Reactive,H3K27me3,ECM-receptor interaction,1.481,0.0027,0.0918,83
+Astro,Reactive,H3K27me3,Hippo-Merlin Signaling Dysregulation WP4541,1.423,0.0027,0.0918,113
+Astro,Reactive,H3K27me3,negative regulation of ossification (GO:0030279),1.695,0.00271,0.0918,23
+Astro,Reactive,H3K27me3,positive regulation of MAP kinase activity (GO:0043406),1.521,0.00271,0.0918,64
+Astro,Reactive,H3K27me3,positive regulation of bone mineralization (GO:0030501),1.648,0.00285,0.0958,33
+Astro,Reactive,H3K27me3,positive regulation of synaptic transmission (GO:0050806),1.502,0.00291,0.0969,71
+Astro,Reactive,H3K27me3,BMP2-WNT4-FOXO1 pathway in primary endometrial stromal cell differentiation WP3876,1.729,0.00305,0.099,13
+Astro,Reactive,H3K27me3,embryonic skeletal system development (GO:0048706),1.644,0.00306,0.099,32
+Astro,Reactive,H3K27me3,positive regulation of nervous system development (GO:0051962),1.576,0.00303,0.099,43
+Astro,Reactive,H3K27me3,response to ethanol (GO:0045471),1.734,0.00302,0.099,15
+Micro,Activated,H3K27ac,TNF-alpha Signaling via NF-kB,1.564,1.62e-06,0.0041,188
+Micro,Activated,H3K27ac,phosphorylation (GO:0016310),1.434,1.91e-06,0.0041,348
+Micro,Activated,H3K27ac,Estrogen Response Early,1.521,1.52e-05,0.0164,170
+Micro,Activated,H3K27ac,Glucocorticoid Receptor Pathway WP2880,1.759,1.2e-05,0.0164,65
+Micro,Activated,H3K27ac,positive regulation of cell differentiation (GO:0045597),1.458,2.02e-05,0.0174,223
+Micro,Activated,H3K27ac,DNA damage response (only ATM dependent) WP710,1.596,3.84e-05,0.0241,101
+Micro,Activated,H3K27ac,Transcription factor regulation in adipogenesis WP3599,1.957,3.92e-05,0.0241,22
+Micro,Activated,H3K27ac,Pathways in cancer,1.307,8.52e-05,0.0325,473
+Micro,Activated,H3K27ac,Thyroid hormone signaling pathway,1.572,9.08e-05,0.0325,105
+Micro,Activated,H3K27ac,amino acid import across plasma membrane (GO:0089718),1.961,6.82e-05,0.0325,18
+Micro,Activated,H3K27ac,neuron migration (GO:0001764),1.79,7.85e-05,0.0325,44
+Micro,Activated,H3K27ac,protein phosphorylation (GO:0006468),1.337,7.28e-05,0.0325,431
+Micro,Activated,H3K27ac,UV Response Dn,1.512,0.000117,0.0386,129
+Micro,Activated,H3K27ac,membrane protein proteolysis (GO:0033619),1.808,0.000159,0.0487,31
+Micro,Activated,H3K27ac,Shigellosis,1.429,0.000171,0.049,201
+Micro,Activated,H3K27ac,Wnt signaling pathway,1.467,0.000194,0.0521,148
+Micro,Activated,H3K27ac,transport across blood-brain barrier (GO:0150104),1.594,0.000223,0.0565,74
+Micro,Activated,H3K27ac,Sphingolipid signaling pathway,1.52,0.000317,0.0756,104
+Micro,Activated,H3K27ac,"Non-genomic actions of 1,25 dihydroxyvitamin D3 WP4341",1.599,0.000372,0.0762,61
+Micro,Activated,H3K27ac,negative regulation of MAPK cascade (GO:0043409),1.551,0.000376,0.0762,83
+Micro,Activated,H3K27ac,pattern recognition receptor signaling pathway (GO:0002221),1.654,0.000376,0.0762,50
+Micro,Activated,H3K27ac,positive regulation of GTPase activity (GO:0043547),1.436,0.000394,0.0762,165
+Micro,Activated,H3K27ac,positive regulation of catabolic process (GO:0009896),1.632,0.000408,0.0762,51
+Micro,Activated,H3K27ac,Gastrin signaling pathway WP4659,1.486,0.000545,0.0778,107
+Micro,Activated,H3K27ac,Wnt Signaling Pathway WP363,1.715,0.000518,0.0778,43
+Micro,Activated,H3K27ac,carboxylic acid transport (GO:0046942),1.663,0.000482,0.0778,46
+Micro,Activated,H3K27ac,cellular response to transforming growth factor beta stimulus (GO:0071560),1.491,0.000554,0.0778,105
+Micro,Activated,H3K27ac,endochondral bone morphogenesis (GO:0060350),1.892,0.000483,0.0778,13
+Micro,Activated,H3K27ac,peptidyl-asparagine modification (GO:0018196),1.762,0.000514,0.0778,26
+Micro,Activated,H3K27ac,protein N-linked glycosylation via asparagine (GO:0018279),1.778,0.000561,0.0778,25
+Micro,Activated,H3K27ac,regulation of neuron migration (GO:2001222),1.8,0.000436,0.0778,25
+Micro,Activated,H3K27ac,Hypoxia,1.423,0.000655,0.0782,167
+Micro,Activated,H3K27ac,Transcriptional misregulation in cancer,1.426,0.000591,0.0782,149
+Micro,Activated,H3K27ac,amino acid import (GO:0043090),1.845,0.000604,0.0782,17
+Micro,Activated,H3K27ac,regulation of DNA biosynthetic process (GO:2000278),1.769,0.000673,0.0782,25
+Micro,Activated,H3K27ac,regulation of protein kinase C signaling (GO:0090036),1.857,0.000661,0.0782,10
+Micro,Activated,H3K27ac,regulation of protein metabolic process (GO:0051246),1.693,0.00062,0.0782,37
+Micro,Activated,H3K27ac,Amplification and Expansion of Oncogenic Pathways as Metastatic Traits WP3678,1.816,0.000842,0.0876,15
+Micro,Activated,H3K27ac,IL-2/STAT5 Signaling,1.388,0.000838,0.0876,179
+Micro,Activated,H3K27ac,Wnt signaling pathway (GO:0016055),1.514,0.000856,0.0876,84
+Micro,Activated,H3K27ac,positive regulation of hydrolase activity (GO:0051345),1.476,0.000801,0.0876,112
+Micro,Activated,H3K27ac,regulation of fat cell differentiation (GO:0045598),1.569,0.000856,0.0876,72
+Micro,Activated,H3K27ac,Wnt signaling WP428,1.47,0.00093,0.0923,106
+Micro,Activated,H3K27ac,Wnt signaling pathway and pluripotency WP399,1.498,0.000966,0.0923,95
+Micro,Activated,H3K27ac,energy reserve metabolic process (GO:0006112),1.824,0.000962,0.0923,16
+Micro,Activated,H3K27ac,import into cell (GO:0098657),1.694,0.000989,0.0924,35
+Micro,Activated,H3K27ac,cellular response to interleukin-6 (GO:0071354),1.742,0.00104,0.0931,25
+Micro,Activated,H3K27ac,regulation of anatomical structure morphogenesis (GO:0022603),1.495,0.00104,0.0931,103
+Micro,Activated,H3K27ac,regulation of potassium ion transmembrane transporter activity (GO:1901016),1.783,0.0011,0.0942,23
+Micro,Activated,H3K27ac,vascular transport (GO:0010232),1.556,0.0011,0.0942,72
+Micro,Activated,H3K27ac,T-cell receptor (TCR) signaling pathway WP69,1.503,0.00117,0.0966,77
+Micro,Activated,H3K27ac,p53 Pathway,1.394,0.00115,0.0966,170
+Micro,Activated,H3K27me3,UV Response Dn,1.739,4.51e-08,2e-04,124
+Micro,Activated,H3K27me3,ventricular septum morphogenesis (GO:0060412),2.142,1.14e-07,2e-04,27
+Micro,Activated,H3K27me3,axon extension (GO:0048675),2.283,1.86e-07,2e-04,17
+Micro,Activated,H3K27me3,Development of ureteric collection system WP5053,1.963,3.12e-07,3e-04,45
+Micro,Activated,H3K27me3,kidney development (GO:0001822),1.895,4.47e-07,3e-04,62
+Micro,Activated,H3K27me3,ventricular septum development (GO:0003281),2.038,8.15e-07,5e-04,36
+Micro,Activated,H3K27me3,negative regulation of cell population proliferation (GO:0008285),1.464,9.84e-07,5e-04,284
+Micro,Activated,H3K27me3,negative regulation of cell migration (GO:0030336),1.669,1.55e-06,8e-04,112
+Micro,Activated,H3K27me3,cell-cell adhesion via plasma-membrane adhesion molecules (GO:0098742),1.611,2.01e-06,9e-04,143
+Micro,Activated,H3K27me3,renal system development (GO:0072001),1.839,3.25e-06,0.0013,50
+Micro,Activated,H3K27me3,Ectoderm Differentiation WP2858,1.632,4.87e-06,0.0014,117
+Micro,Activated,H3K27me3,cell junction assembly (GO:0034329),1.721,4.25e-06,0.0014,78
+Micro,Activated,H3K27me3,modulation of chemical synaptic transmission (GO:0050804),1.666,4.25e-06,0.0014,96
+Micro,Activated,H3K27me3,neuron development (GO:0048666),1.61,4.8e-06,0.0014,108
+Micro,Activated,H3K27me3,chemical synaptic transmission (GO:0007268),1.451,6.05e-06,0.0016,252
+Micro,Activated,H3K27me3,neuron projection morphogenesis (GO:0048812),1.626,6.95e-06,0.0017,115
+Micro,Activated,H3K27me3,axonogenesis (GO:0007409),1.463,1.12e-05,0.0026,203
+Micro,Activated,H3K27me3,adenylate cyclase-activating G protein-coupled receptor signaling pathway (GO:0007189),1.609,1.47e-05,0.0028,111
+Micro,Activated,H3K27me3,brain development (GO:0007420),1.613,1.41e-05,0.0028,111
+Micro,Activated,H3K27me3,neuron differentiation (GO:0030182),1.541,1.37e-05,0.0028,155
+Micro,Activated,H3K27me3,negative regulation of transcription by RNA polymerase II (GO:0000122),1.323,1.86e-05,0.0034,462
+Micro,Activated,H3K27me3,adherens junction organization (GO:0034332),1.819,2.2e-05,0.0037,43
+Micro,Activated,H3K27me3,positive regulation of cell differentiation (GO:0045597),1.463,2.22e-05,0.0037,202
+Micro,Activated,H3K27me3,negative chemotaxis (GO:0050919),1.902,2.46e-05,0.004,29
+Micro,Activated,H3K27me3,synapse organization (GO:0050808),1.587,2.64e-05,0.0041,103
+Micro,Activated,H3K27me3,negative regulation of cell motility (GO:2000146),1.616,3e-05,0.0045,87
+Micro,Activated,H3K27me3,Epithelial Mesenchymal Transition,1.482,3.62e-05,0.0052,173
+Micro,Activated,H3K27me3,cell morphogenesis involved in neuron differentiation (GO:0048667),1.691,4.24e-05,0.0059,65
+Micro,Activated,H3K27me3,anterograde trans-synaptic signaling (GO:0098916),1.422,7.84e-05,0.0105,204
+Micro,Activated,H3K27me3,adenylate cyclase-modulating G protein-coupled receptor signaling pathway (GO:0007188),1.499,8.97e-05,0.0112,149
+Micro,Activated,H3K27me3,external encapsulating structure organization (GO:0045229),1.425,8.74e-05,0.0112,192
+Micro,Activated,H3K27me3,eye development (GO:0001654),1.743,9.31e-05,0.0113,48
+Micro,Activated,H3K27me3,positive regulation of cell population proliferation (GO:0008284),1.3,0.000103,0.0118,374
+Micro,Activated,H3K27me3,regulation of cytosolic calcium ion concentration (GO:0051480),1.526,0.000101,0.0118,118
+Micro,Activated,H3K27me3,White fat cell differentiation WP4149,1.827,0.00011,0.0119,28
+Micro,Activated,H3K27me3,axon development (GO:0061564),1.606,0.000112,0.0119,67
+Micro,Activated,H3K27me3,positive regulation of nucleic acid-templated transcription (GO:1903508),1.297,0.000113,0.0119,374
+Micro,Activated,H3K27me3,GDNF/RET signaling axis WP4830,1.915,0.00013,0.012,22
+Micro,Activated,H3K27me3,embryonic organ development (GO:0048568),1.639,0.000139,0.012,57
+Micro,Activated,H3K27me3,extracellular structure organization (GO:0043062),1.418,0.000135,0.012,191
+Micro,Activated,H3K27me3,gonad development (GO:0008406),1.746,0.000119,0.012,43
+Micro,Activated,H3K27me3,hepaticobiliary system development (GO:0061008),1.976,0.000138,0.012,15
+Micro,Activated,H3K27me3,limb development (GO:0060173),1.911,0.000139,0.012,24
+Micro,Activated,H3K27me3,modulation of excitatory postsynaptic potential (GO:0098815),1.89,0.000128,0.012,23
+Micro,Activated,H3K27me3,regulation of cell migration (GO:0030334),1.352,0.000121,0.012,311
+Micro,Activated,H3K27me3,positive regulation of cell junction assembly (GO:1901890),1.672,0.000155,0.0131,50
+Micro,Activated,H3K27me3,gland development (GO:0048732),1.624,0.000169,0.0139,63
+Micro,Activated,H3K27me3,Neuroactive ligand-receptor interaction,1.344,0.000196,0.0149,306
+Micro,Activated,H3K27me3,generation of neurons (GO:0048699),1.418,0.000196,0.0149,178
+Micro,Activated,H3K27me3,mesonephric tubule development (GO:0072164),1.886,0.000189,0.0149,16
+Micro,Activated,H3K27me3,synapse assembly (GO:0007416),1.696,0.000192,0.0149,56
+Micro,Activated,H3K27me3,nervous system development (GO:0007399),1.304,0.00021,0.0157,362
+Micro,Activated,H3K27me3,ureteric bud morphogenesis (GO:0060675),1.919,0.00022,0.0161,18
+Micro,Activated,H3K27me3,negative regulation of cellular process (GO:0048523),1.289,0.000239,0.0172,398
+Micro,Activated,H3K27me3,homophilic cell adhesion via plasma membrane adhesion molecules (GO:0007156),1.654,0.000267,0.0188,51
+Micro,Activated,H3K27me3,Transcriptional misregulation in cancer,1.46,0.000276,0.0191,133
+Micro,Activated,H3K27me3,central nervous system development (GO:0007417),1.374,0.000303,0.0206,208
+Micro,Activated,H3K27me3,embryonic limb morphogenesis (GO:0030326),1.764,0.000309,0.0207,32
+Micro,Activated,H3K27me3,Cushing syndrome,1.452,0.000321,0.0211,124
+Micro,Activated,H3K27me3,chordate embryonic development (GO:0043009),1.676,0.000367,0.0237,48
+Micro,Activated,H3K27me3,axon guidance (GO:0007411),1.4,0.00039,0.0248,175
+Micro,Activated,H3K27me3,Pre-implantation embryo WP3527,1.631,0.000403,0.0253,51
+Micro,Activated,H3K27me3,branching morphogenesis of an epithelial tube (GO:0048754),1.685,0.000431,0.0266,41
+Micro,Activated,H3K27me3,calcium-dependent cell-cell adhesion via plasma membrane cell adhesion molecules (GO:0016339),1.751,0.000468,0.0283,27
+Micro,Activated,H3K27me3,mesenchymal to epithelial transition (GO:0060231),1.899,0.000474,0.0283,10
+Micro,Activated,H3K27me3,cell-cell junction assembly (GO:0007043),1.636,0.00049,0.0288,54
+Micro,Activated,H3K27me3,Axon guidance,1.416,0.000545,0.0295,142
+Micro,Activated,H3K27me3,Hedgehog Signaling,1.747,0.000547,0.0295,33
+Micro,Activated,H3K27me3,Sudden Infant Death Syndrome (SIDS) Susceptibility Pathways WP706,1.432,0.000536,0.0295,135
+Micro,Activated,H3K27me3,cellular divalent inorganic cation homeostasis (GO:0072503),1.499,0.000545,0.0295,83
+Micro,Activated,H3K27me3,extracellular matrix organization (GO:0030198),1.331,0.000536,0.0295,251
+Micro,Activated,H3K27me3,positive regulation of excitatory postsynaptic potential (GO:2000463),1.816,0.000517,0.0295,16
+Micro,Activated,H3K27me3,limb morphogenesis (GO:0035108),1.837,0.000576,0.0306,20
+Micro,Activated,H3K27me3,cardiac right ventricle morphogenesis (GO:0003215),1.893,0.000593,0.0311,13
+Micro,Activated,H3K27me3,cell communication by electrical coupling involved in cardiac conduction (GO:0086064),1.846,0.000639,0.0331,14
+Micro,Activated,H3K27me3,Wnt signaling pathway,1.417,0.000691,0.0353,132
+Micro,Activated,H3K27me3,positive regulation of developmental process (GO:0051094),1.421,0.000719,0.0362,133
+Micro,Activated,H3K27me3,Genes controlling nephrogenesis WP4823,1.682,0.000785,0.039,37
+Micro,Activated,H3K27me3,regulation of axonogenesis (GO:0050770),1.707,0.000831,0.0403,38
+Micro,Activated,H3K27me3,regulation of synapse assembly (GO:0051963),1.668,0.000821,0.0403,40
+Micro,Activated,H3K27me3,positive regulation of long-term synaptic potentiation (GO:1900273),1.877,0.000853,0.0409,12
+Micro,Activated,H3K27me3,neural crest cell development (GO:0014032),1.669,0.000913,0.043,39
+Micro,Activated,H3K27me3,positive regulation of MAPK cascade (GO:0043410),1.327,0.00092,0.043,207
+Micro,Activated,H3K27me3,Estrogen Response Early,1.368,0.000948,0.0433,168
+Micro,Activated,H3K27me3,KRAS Signaling Up,1.362,0.000948,0.0433,161
+Micro,Activated,H3K27me3,neuron projection extension (GO:1990138),1.778,0.000983,0.0444,22
+Micro,Activated,H3K27me3,potassium ion transport (GO:0006813),1.448,0.001,0.0448,104
+Micro,Activated,H3K27me3,male gonad development (GO:0008584),1.674,0.00106,0.0463,36
+Micro,Activated,H3K27me3,regulation of neuron differentiation (GO:0045664),1.547,0.00106,0.0463,68
+Micro,Activated,H3K27me3,potassium ion transmembrane transport (GO:0071805),1.439,0.00117,0.0504,121
+Micro,Activated,H3K27me3,regulation of ERK1 and ERK2 cascade (GO:0070372),1.353,0.00119,0.0505,176
+Micro,Activated,H3K27me3,ureteric bud development (GO:0001657),1.792,0.0012,0.0505,19
+Micro,Activated,H3K27me3,positive regulation of cell projection organization (GO:0031346),1.476,0.00124,0.0519,82
+Micro,Activated,H3K27me3,positive regulation of G1/S transition of mitotic cell cycle (GO:1900087),1.831,0.00128,0.0527,15
+Micro,Activated,H3K27me3,neural tube development (GO:0021915),1.825,0.00133,0.0544,11
+Micro,Activated,H3K27me3,glomerular visceral epithelial cell differentiation (GO:0072112),1.816,0.00145,0.0581,11
+Micro,Activated,H3K27me3,ventricular cardiac muscle tissue morphogenesis (GO:0055010),1.704,0.00145,0.0581,31
+Micro,Activated,H3K27me3,positive regulation of cellular process (GO:0048522),1.237,0.00152,0.0601,458
+Micro,Activated,H3K27me3,heart development (GO:0007507),1.391,0.00156,0.061,130
+Micro,Activated,H3K27me3,TNF-alpha Signaling via NF-kB,1.382,0.00157,0.0611,155
+Micro,Activated,H3K27me3,Glutamatergic synapse,1.466,0.00159,0.0612,94
+Micro,Activated,H3K27me3,Cardiac Progenitor Differentiation WP2406,1.595,0.00167,0.0628,49
+Micro,Activated,H3K27me3,inorganic cation transmembrane transport (GO:0098662),1.316,0.0017,0.0628,222
+Micro,Activated,H3K27me3,negative regulation of fibroblast growth factor receptor signaling pathway (GO:0040037),1.8,0.00172,0.0628,13
+Micro,Activated,H3K27me3,negative regulation of nucleic acid-templated transcription (GO:1903507),1.266,0.0017,0.0628,326
+Micro,Activated,H3K27me3,sensory organ development (GO:0007423),1.58,0.0017,0.0628,48
+Micro,Activated,H3K27me3,pulmonary valve development (GO:0003177),1.79,0.00176,0.0639,16
+Micro,Activated,H3K27me3,Mesodermal commitment pathway WP2857,1.397,0.0018,0.0647,120
+Micro,Activated,H3K27me3,cellular response to growth factor stimulus (GO:0071363),1.422,0.00185,0.0658,116
+Micro,Activated,H3K27me3,central nervous system neuron differentiation (GO:0021953),1.683,0.00191,0.0658,31
+Micro,Activated,H3K27me3,negative regulation of chemotaxis (GO:0050922),1.682,0.00192,0.0658,28
+Micro,Activated,H3K27me3,negative regulation of epithelial cell proliferation (GO:0050680),1.56,0.0019,0.0658,54
+Micro,Activated,H3K27me3,regulation of angiogenesis (GO:0045765),1.372,0.00187,0.0658,160
+Micro,Activated,H3K27me3,Spinal Cord Injury WP2431,1.457,0.002,0.0675,86
+Micro,Activated,H3K27me3,autonomic nervous system development (GO:0048483),1.758,0.002,0.0675,18
+Micro,Activated,H3K27me3,cell-cell junction organization (GO:0045216),1.491,0.0021,0.068,72
+Micro,Activated,H3K27me3,neuron migration (GO:0001764),1.597,0.0021,0.068,42
+Micro,Activated,H3K27me3,neuron projection development (GO:0031175),1.385,0.0021,0.068,124
+Micro,Activated,H3K27me3,positive regulation of synaptic transmission (GO:0050806),1.535,0.0021,0.068,56
+Micro,Activated,H3K27me3,regulation of epithelial cell proliferation (GO:0050678),1.478,0.0021,0.068,74
+Micro,Activated,H3K27me3,positive regulation of cell cycle G1/S phase transition (GO:1902808),1.699,0.00214,0.0687,21
+Micro,Activated,H3K27me3,positive regulation of multicellular organismal process (GO:0051240),1.28,0.0022,0.07,262
+Micro,Activated,H3K27me3,embryonic digestive tract development (GO:0048566),1.724,0.00225,0.0711,19
+Micro,Activated,H3K27me3,regulation of neuron projection development (GO:0010975),1.38,0.0023,0.072,124
+Micro,Activated,H3K27me3,calcium ion transport into cytosol (GO:0060402),1.717,0.00235,0.073,20
+Micro,Activated,H3K27me3,TGF-beta signaling pathway,1.482,0.0024,0.0731,72
+Micro,Activated,H3K27me3,cardiac ventricle morphogenesis (GO:0003208),1.601,0.0024,0.0731,40
+Micro,Activated,H3K27me3,engulfment of apoptotic cell (GO:0043652),1.755,0.00241,0.0731,14
+Micro,Activated,H3K27me3,dendrite morphogenesis (GO:0048813),1.674,0.00252,0.0751,30
+Micro,Activated,H3K27me3,development of primary male sexual characteristics (GO:0046546),1.634,0.00251,0.0751,36
+Micro,Activated,H3K27me3,outflow tract septum morphogenesis (GO:0003148),1.681,0.00254,0.0752,23
+Micro,Activated,H3K27me3,Angiogenesis,1.641,0.00271,0.0759,32
+Micro,Activated,H3K27me3,Calcium signaling pathway,1.31,0.0027,0.0759,203
+Micro,Activated,H3K27me3,Nephrogenesis WP5052,1.744,0.00259,0.0759,16
+Micro,Activated,H3K27me3,cardiac atrium morphogenesis (GO:0003209),1.735,0.00271,0.0759,15
+Micro,Activated,H3K27me3,cardiac muscle tissue morphogenesis (GO:0055008),1.648,0.00272,0.0759,29
+Micro,Activated,H3K27me3,metanephros development (GO:0001656),1.733,0.00268,0.0759,24
+Micro,Activated,H3K27me3,negative regulation of multicellular organismal process (GO:0051241),1.356,0.00268,0.0759,171
+Micro,Activated,H3K27me3,neurotransmitter secretion (GO:0007269),1.628,0.00261,0.0759,36
+Micro,Activated,H3K27me3,negative regulation of cell differentiation (GO:0045596),1.36,0.00287,0.0795,155
+Micro,Activated,H3K27me3,Hippo-Merlin Signaling Dysregulation WP4541,1.407,0.003,0.0809,100
+Micro,Activated,H3K27me3,cation transport (GO:0006812),1.35,0.003,0.0809,147
+Micro,Activated,H3K27me3,endocardial cushion morphogenesis (GO:0003203),1.699,0.00298,0.0809,18
+Micro,Activated,H3K27me3,positive regulation of neurogenesis (GO:0050769),1.53,0.003,0.0809,51
+Micro,Activated,H3K27me3,secondary palate development (GO:0062009),1.722,0.00304,0.0814,14
+Micro,Activated,H3K27me3,cognition (GO:0050890),1.621,0.00311,0.082,35
+Micro,Activated,H3K27me3,sympathetic nervous system development (GO:0048485),1.783,0.0031,0.082,15
+Micro,Activated,H3K27me3,Dopaminergic Neurogenesis WP2855,1.636,0.00322,0.0824,29
+Micro,Activated,H3K27me3,cardiac epithelial to mesenchymal transition (GO:0060317),1.692,0.00318,0.0824,19
+Micro,Activated,H3K27me3,mesenchymal cell differentiation (GO:0048762),1.578,0.0032,0.0824,43
+Micro,Activated,H3K27me3,positive regulation of nervous system development (GO:0051962),1.629,0.00321,0.0824,34
+Micro,Activated,H3K27me3,semaphorin-plexin signaling pathway (GO:0071526),1.635,0.00323,0.0824,28
+Micro,Activated,H3K27me3,pulmonary valve morphogenesis (GO:0003184),1.708,0.00342,0.0867,16
+Micro,Activated,H3K27me3,genitalia development (GO:0048806),1.737,0.00351,0.0885,12
+Micro,Activated,H3K27me3,Endoderm differentiation WP2853,1.366,0.0036,0.0885,119
+Micro,Activated,H3K27me3,lamellipodium organization (GO:0097581),1.665,0.00357,0.0885,21
+Micro,Activated,H3K27me3,positive regulation of ossification (GO:0045778),1.629,0.00362,0.0885,32
+Micro,Activated,H3K27me3,regulation of epithelial to mesenchymal transition (GO:0010717),1.459,0.0036,0.0885,67
+Micro,Activated,H3K27me3,regulation of nervous system process (GO:0031644),1.672,0.0037,0.0885,18
+Micro,Activated,H3K27me3,regulation of nucleic acid-templated transcription (GO:1903506),1.249,0.0037,0.0885,284
+Micro,Activated,H3K27me3,regulation of secretion by cell (GO:1903530),1.57,0.00371,0.0885,39
+Micro,Activated,H3K27me3,respiratory system development (GO:0060541),1.617,0.00372,0.0885,31
+Micro,Activated,H3K27me3,signal release from synapse (GO:0099643),1.604,0.00371,0.0885,35
+Micro,Activated,H3K27me3,cellular polysaccharide catabolic process (GO:0044247),-1.876,0.00383,0.089,14
+Micro,Activated,H3K27me3,positive regulation of cell-cell adhesion (GO:0022409),1.589,0.00381,0.089,38
+Micro,Activated,H3K27me3,regulation of macromolecule metabolic process (GO:0060255),1.338,0.0038,0.089,143
+Micro,Activated,H3K27me3,skeletal system development (GO:0001501),1.35,0.0038,0.089,128
+Micro,Activated,H3K27me3,endocrine system development (GO:0035270),1.641,0.00386,0.0892,23
+Micro,Activated,H3K27me3,Circadian entrainment,1.428,0.004,0.0918,78
+Micro,Activated,H3K27me3,Pathways Regulating Hippo Signaling WP4540,1.429,0.0041,0.093,83
+Micro,Activated,H3K27me3,negative regulation of Wnt signaling pathway (GO:0030178),1.343,0.0041,0.093,139
+Micro,Activated,H3K27me3,miRNA targets in ECM and membrane receptors WP2911,1.641,0.00417,0.0935,22
+Micro,Activated,H3K27me3,positive regulation of heterotypic cell-cell adhesion (GO:0034116),1.717,0.00415,0.0935,12
+Micro,Activated,H3K27me3,positive regulation of cytosolic calcium ion concentration (GO:0007204),1.358,0.0043,0.0959,119
+Micro,Activated,H3K27me3,cellular response to retinoic acid (GO:0071300),1.584,0.00451,0.0988,36
+Micro,Activated,H3K27me3,dopaminergic neuron differentiation (GO:0071542),1.662,0.00451,0.0988,19
+Micro,Activated,H3K27me3,inner ear morphogenesis (GO:0042472),1.621,0.00446,0.0988,24
+Micro,Activated,H3K27me3,positive regulation of bone mineralization (GO:0030501),1.602,0.00453,0.0988,29
+Micro,Homeostatic,H3K27ac,nervous system development (GO:0007399),1.885,3.01e-08,1e-04,420
+Micro,Homeostatic,H3K27ac,cell junction assembly (GO:0034329),1.992,4.9e-05,0.0464,91
+Micro,Homeostatic,H3K27ac,positive regulation of protein modification by small protein conjugation or removal (GO:1903322),2.073,3.33e-05,0.0464,70
+Micro,Homeostatic,H3K27ac,positive regulation of protein ubiquitination (GO:0031398),2.061,4.9e-05,0.0464,73
+Micro,Homeostatic,H3K27ac,regulation of neuron differentiation (GO:0045664),2.132,2.4e-05,0.0464,77
+Micro,Homeostatic,H3K27ac,positive regulation of nucleic acid-templated transcription (GO:1903508),-1.542,7.83e-05,0.0618,499
+Micro,Homeostatic,H3K27ac,axonogenesis (GO:0007409),1.676,9.44e-05,0.0638,239
+Micro,Homeostatic,H3K27me3,Lung fibrosis WP3624,-2.136,1.45e-05,0.0218,60
+Micro,Homeostatic,H3K27me3,nervous system development (GO:0007399),1.589,9.31e-06,0.0218,424
+Micro,Homeostatic,H3K27me3,positive regulation of nucleic acid-templated transcription (GO:1903508),-1.624,1.23e-05,0.0218,463
+Micro,Homeostatic,H3K27me3,Epithelial Mesenchymal Transition,1.723,3.74e-05,0.0422,193
+Micro,Homeostatic,H3K27me3,Cardiac Hypertrophic Response WP2795,-2.036,7.75e-05,0.0567,50
+Micro,Homeostatic,H3K27me3,Extracellular vesicles in the crosstalk of cardiac cells WP4300,-2.19,7.16e-05,0.0567,19
+Micro,Homeostatic,H3K27me3,Interferon Gamma Response,-1.734,8.8e-05,0.0567,180
+Micro,Homeostatic,H3K27me3,UV Response Up,-1.778,0.000128,0.0631,143
+Micro,Homeostatic,H3K27me3,Vascular smooth muscle contraction,-1.814,0.000154,0.0631,123
+Micro,Homeostatic,H3K27me3,central nervous system development (GO:0007417),1.611,0.00014,0.0631,250
+Micro,Homeostatic,H3K27me3,synapse assembly (GO:0007416),1.977,0.00015,0.0631,68
+Micro,Homeostatic,H3K27me3,B Cell Receptor Signaling Pathway WP23,-1.86,0.000229,0.0647,88
+Micro,Homeostatic,H3K27me3,Inflammatory mediator regulation of TRP channels,-1.865,0.000196,0.0647,95
+Micro,Homeostatic,H3K27me3,Oxytocin signaling pathway,-1.749,0.000218,0.0647,144
+Micro,Homeostatic,H3K27me3,TNF-alpha Signaling via NF-kB,-1.704,0.000216,0.0647,194
+Micro,Homeostatic,H3K27me3,cell-cell adhesion via plasma-membrane adhesion molecules (GO:0098742),1.665,0.000179,0.0647,167
+Micro,Homeostatic,H3K27me3,IL-6/JAK/STAT3 Signaling,-1.83,0.000312,0.074,83
+Micro,Homeostatic,H3K27me3,Insulin Signaling WP481,-1.714,0.000365,0.074,144
+Micro,Homeostatic,H3K27me3,MAPK cascade (GO:0000165),-1.577,0.000368,0.074,267
+Micro,Homeostatic,H3K27me3,Neuroactive ligand-receptor interaction,1.523,0.000334,0.074,328
+Micro,Homeostatic,H3K27me3,brain development (GO:0007420),1.721,0.000379,0.074,137
+Micro,Homeostatic,H3K27me3,cellular response to interleukin-7 (GO:0098761),-2.012,0.000393,0.074,15
+Micro,Homeostatic,H3K27me3,cellular response to transforming growth factor beta stimulus (GO:0071560),-1.842,0.000302,0.074,109
+Micro,Homeostatic,H3K27me3,interleukin-7-mediated signaling pathway (GO:0038111),-2.012,0.000393,0.074,15
+Micro,Homeostatic,H3K27me3,Glycosaminoglycan biosynthesis,-1.898,0.000431,0.0777,52
+Micro,Homeostatic,H3K27me3,cell junction assembly (GO:0034329),1.796,0.000533,0.0925,96
+Micro,Homeostatic,H3K27me3,positive regulation of endopeptidase activity (GO:0010950),-2.003,0.00056,0.0935,23
+Micro,Homeostatic,H3K27me3,MAPK signaling pathway,-1.585,0.000607,0.0944,274
+Micro,Homeostatic,H3K27me3,Physiological and pathological hypertrophy of the heart WP1528,-1.997,6e-04,0.0944,23
+Micro,Homeostatic,H3K27me3,neuron development (GO:0048666),1.687,0.000649,0.0976,127
+Micro,Homeostatic,H3K27me3,transforming growth factor beta receptor signaling pathway (GO:0007179),-1.804,0.000673,0.0979,84
