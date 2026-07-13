@@ -51,34 +51,34 @@ Figures referenced below are the saved artifacts; each is listed with its filena
 ### 4.0 Quality control and cell typing
 After valid-cell filtering, retained nuclei sit well above the QC floors in both modalities (RNA mode ~1.5–2k genes; CUT&Tag ~5–10k fragments), cleanly separated from the empty-droplet population (**Figure 1**). De-novo clustering recovered the expected major cell types in each region — hippocampus oligodendrocyte-rich (8 types), cerebellum granule-neuron-dominated (9 types) — with both histone marks co-mingling within each cell type after Harmony integration (**Figures 2–3**).
 
-![Figure 1. QC metrics per library.]({{artifact:art_f8ed46f4-c852-4efd-8d3a-dd1b63df2ccc}})
+![Figure 1. QC metrics per library.](figures/qc_metrics.png)
 *Figure 1. Per-library QC: nuclei retained, RNA complexity, and CUT&Tag signal, with thresholds annotated.*
 
-![Figure 2. Hippocampus cell types.]({{artifact:art_deec18db-fa78-4b34-988c-bd1981633a94}})
+![Figure 2. Hippocampus cell types.](figures/celltypes_HIP.png)
 *Figure 2. Hippocampus — UMAP by major cell type, mark-integration check, and marker dotplot.*
 
-![Figure 3. Cerebellum cell types.]({{artifact:art_6f615781-0ebe-4293-836b-72ab6134a37c}})
+![Figure 3. Cerebellum cell types.](figures/celltypes_CBL.png)
 *Figure 3. Cerebellum — UMAP by major cell type (granule-neuron-dominated), mark-integration check, and markers.*
 
 ### 4.1 An annotated, cell-type-resolved CRE atlas (Deliverable 1)
 The consensus atlas covers 859,854 H3K27ac and 567,404 H3K27me3 CREs, each annotated with genomic context (H3K27ac: 50.7% distal, 46.7% genic, 2.6% promoter — the distal/genic dominance expected of an enhancer-rich active mark) and nearest protein-coding gene, plus per-cell-type mean signal (**Figure 4**). H3K27me3 domains are broader (median 2,022 bp) than H3K27ac peaks (677 bp), as expected for a Polycomb domain mark. Clustering cell types by CRE profile is organized by both cell class and region: hippocampal glial/vascular types form one coherent block, and the top-level split groups the cerebellar types with hippocampal excitatory and inhibitory neurons — i.e. a neuronal-vs-non-neuronal axis crosses region at the very top, with region a strong secondary structure (**Figure 5**). There are no residual cross-region contamination singletons after the label-correction, so the neuron/CBL grouping reflects shared neuronal regulatory programs rather than mislabeling. AD-risk genes carry many nearby CREs (e.g. PICALM 75 H3K27ac / 29 H3K27me3; BIN1 53/26; MAPT 24/18), giving substrate for the downstream CRE–gene analysis.
 
-![Figure 4. CRE genomic-context composition.]({{artifact:art_66c76f49-8d2e-4213-8a8f-c0809c4ff046}})
+![Figure 4. CRE genomic-context composition.](figures/CRE_atlas_context.png)
 *Figure 4. Genomic-context composition of the consensus CRE atlas by mark (promoter/genic/distal).*
 
-![Figure 5. Cell-type CRE-profile similarity.]({{artifact:art_de218e53-c6a4-470d-b1b5-fb7c914a2e73}})
+![Figure 5. Cell-type CRE-profile similarity.](figures/CRE_atlas_heatmap.png)
 *Figure 5. H3K27ac CRE-profile similarity across cell types (top 5,000 variable peaks, Spearman); dendrogram shows a neuronal/non-neuronal split with strong region structure.*
 
 ### 4.2 CRE regulatory states (added per project-lead request)
 H3K27ac and H3K27me3 modify the **same residue (H3 Lys27)** and are chemically mutually exclusive on a single nucleosome, so dual-signal CREs in pseudobulk reflect **population heterogeneity / transitional states, not single-nucleosome bivalency** (true bivalency requires H3K4 marks, not assayed here). Genome-wide, loci partitioned as unclear 36.8%, repressed 19.5%, dual 19.0%, cell-type-switched 13.6%, and active 11.0% (**Figure 6**). State properties are internally coherent: active CREs are promoter/genic-enriched, unclear CREs are narrow and distal, and dual CREs are the widest (broad H3K27me3 domains overlapping active peaks). Among AD-gene promoters, PICALM and PSEN1 are active; **APOE is cell-type-switched** — active in some cell types and repressed in others, matching its well-documented cell-type-specific regulation; BIN1, CLU, MAPT, TREM2, APP, SORL1 and ABCA7 are dual.
 
-![Figure 6. CRE regulatory-state classification.]({{artifact:art_610e6527-56ef-4a0d-bde8-17d69efd8f75}})
+![Figure 6. CRE regulatory-state classification.](figures/CRE_state_classification.png)
 *Figure 6. Genome-wide CRE regulatory-state composition, genomic-context enrichment by state, and CRE width by state.*
 
 ### 4.3 Differential CRE: near-null at the single-element level (Deliverable 2)
 At 8–9 donors per arm, **AD produces essentially no genome-wide single-CRE differential signal** (**Figure 7**): exactly one CRE passes even the relaxed threshold (a distal H3K27ac element near IMPAD1 in HIP inhibitory neurons, log2FC −1.38, FDR 0.02). This is a power limit, not a data-quality problem — per-stratum dispersions are tight (BCV 0.12–0.18) and the constraint is cohort size against hundreds of thousands of tests. A batch-adjusted model produced apparent hits (GSTM1, TMEM106B) that **disappear under the diagnosis-only model**, i.e. batch confounding masquerading as signal; these are not reported as findings.
 
-![Figure 7. Differential-CRE volcanoes.]({{artifact:art_74301e2f-cd1f-4f1d-9b61-374056dd4f74}})
+![Figure 7. Differential-CRE volcanoes.](figures/DE_volcanoes.png)
 *Figure 7. AD-vs-CTL differential-CRE volcano plots per stratum (diagnosis-only model); the landscape is essentially null at the single-element level.*
 
 ### 4.4 Coordinated, cell-type-specific remodeling emerges under pooled analysis (Deliverables 2, 4)
@@ -93,10 +93,10 @@ The biologically important structure, however, is not the *count* of enrichments
 
 Thus the dominant *theme* is immune/inflammatory, but its **direction is cell-type- and region-specific**: gained in hippocampal reactive astrocytes, lost in cerebellar microglia, and repressive-mark–gained in cerebellar neurons. The per-cell-type/region-specific enrichment map (**Figure 8**) is the evidence base for this reading; development, synaptic and metabolic programs form the secondary themes.
 
-![Figure 8. Per-cell-type CRE-remodeling enrichments.]({{artifact:art_bcc9a324-cb25-4e61-8287-0659892da711}})
+![Figure 8. Per-cell-type CRE-remodeling enrichments.](figures/celltype_enrichment_scatter.png)
 *Figure 8. Per-cell-type CRE-remodeling enrichments in AD. Columns are cell-type × region × mark groups, rows are pathway terms (top and group-unique significant terms per group, padj<0.1); dot size = −log10 padj, colour = NES sign (red = mark gained in AD, blue = lost). The polarity flip on immune programs between CBL microglia (blue/lost) and HIP astrocytes (red/gained) is the central per-cell-type contrast.*
 
-![Figure 9. Cell-type interpretation.]({{artifact:art_3ee5ffef-620e-49fd-a3b3-4835385144f2}})
+![Figure 9. Cell-type interpretation.](figures/celltype_interpretation.png)
 *Figure 9. (A) Remodeling burden per cell type × mark (bar = number of significant pathway enrichments, padj<0.1). (B) Dominant-theme × stratum direction map; colour = mean NES (positive = mark gained in AD, negative = lost). NES = GSEA normalized enrichment score.*
 
 ### 4.5 A region-divergent glial immune axis (Deliverable 5)
@@ -112,7 +112,7 @@ The key contrast is that the **same inflammatory programs are marked in opposite
 ### 4.6 CRE–gene associations validate the linkage (Deliverable 3)
 Peak–RNA correlation across the matched pseudobulk recovers the expected directional signatures (**Figure 10**): **H3K27ac gives 163,756 activating links** (positive rho, median +0.14) versus only 3,054 negative, while **H3K27me3 gives 40,449 repressive links** (negative rho) versus 11,934 positive — active marking tracks expression up, repressive marking tracks it down, exactly as biology predicts. This is a strong internal check that the pipeline measures genuine regulation. AD genes behave coherently: APOE shows activating H3K27ac links (rho +0.26 to +0.45) *and* a significant repressive H3K27me3 promoter link (rho −0.28, FDR 7×10⁻³), consistent with its cell-type-switched state; APP shows repressive H3K27me3 links (rho −0.22 to −0.36).
 
-![Figure 10. CRE–gene associations.]({{artifact:art_09da06e6-d873-461f-9272-0cd5ce3287a9}})
+![Figure 10. CRE–gene associations.](figures/CRE_gene_associations.png)
 *Figure 10. CRE–gene correlation distributions by mark, an example APOE enhancer–expression scatter, and directional link counts.*
 
 ### 4.7 Astrocyte and microglial subtype states (reference + marker analysis)
@@ -122,30 +122,30 @@ To resolve *which cellular states* carry the glial immune signal, hippocampal as
 
 **State-resolved enhancer remodeling (Figure 14) is the key result.** Re-quantifying consensus CREs over donor × state pseudobulks and testing AD vs CTL shows that single-CRE differences remain near-null per state (one H3K27me3 CRE, and BCV rising from 0.17–0.18 in the large homeostatic states to 0.63 in the smallest state as power drops with splitting), but pooled per-state GSEA reveals a clean **astrocyte state-switch**: **homeostatic astrocytes lose H3K27ac** at inflammatory programs (TNF-α/NF-κB, IL-1β, IL-2, inflammatory response, chemotaxis; all NES<0) while **reactive astrocytes gain them** (TNF-α/NF-κB NES +1.63, IL-6 response +1.71, IL-1 +1.75, Fc-γ receptor, Oncostatin M). The reactive-astrocyte inflammatory-enhancer gain seen at the bulk cell-type level (§4.4–4.5) is therefore carried specifically by the reactive state, not spread evenly across astrocytes. In microglia, the **activated state gains** immune H3K27ac (TNF-α/NF-κB +1.56, IL-2/STAT5, IL-6), while **homeostatic microglia lose the repressive H3K27me3 mark** at immune loci (IFN-γ −1.73, TNF-α −1.70, IL-6/JAK/STAT3, IL-7) — a de-repression/priming signature at the chromatin level. The AD glial signal thus lives in **state-specific enhancer remodeling** — reactive-astrocyte activation and homeostatic-microglial de-repression — more than in gross subtype proportion shifts, consistent with the near-null single-CRE DE and the pooled pathway signal.
 
-![Figure 11. Microglial subtype states.]({{artifact:art_7b91b079-008f-4d1a-b808-fd89cf0f737c}})
+![Figure 11. Microglial subtype states.](figures/glial_subtypes_microglia.png)
 *Figure 11. HIP microglia — (a) subtype-state UMAP; (b) reference-signature z-scores per subcluster confirming state assignments against published microglial signatures.*
 
-![Figure 12. Astrocyte subtype states.]({{artifact:art_4cc11834-e902-4740-b9b2-5c38585626d6}})
+![Figure 12. Astrocyte subtype states.](figures/glial_subtypes_astrocyte.png)
 *Figure 12. HIP astrocytes — (a) subtype-state UMAP; (b) reference-signature z-scores per subcluster (homeostatic, reactive/DAA, metallothionein-stress).*
 
-![Figure 13. Subtype composition AD vs control.]({{artifact:art_105c8c61-904e-48cc-83b9-10633e40094f}})
+![Figure 13. Subtype composition AD vs control.](figures/subtype_composition.png)
 *Figure 13. Per-donor glial subtype proportions, AD vs control (HIP, n=9, Wilcoxon). Metallothionein-stress astrocytes are significantly expanded in AD (p=0.03); other reactive/activated states trend up without reaching significance.*
 
-![Figure 14. State-resolved immune enhancer remodeling.]({{artifact:art_718e82e3-e1c8-409c-83c3-6b89ccd18370}})
+![Figure 14. State-resolved immune enhancer remodeling.](figures/subtype_immune_enrichment.png)
 *Figure 14. State-resolved immune/inflammatory enhancer direction in AD (HIP). Reactive astrocytes and activated microglia gain inflammatory H3K27ac (red); homeostatic astrocytes lose it and homeostatic microglia lose the repressive H3K27me3 mark (de-repression). Dot size = −log10 padj, colour = NES.*
 
 ## 5. Prioritized validation targets (Deliverable 5)
 Targets were ranked per region × cell-type context (`prioritized_targets_by_context.csv`) and as a focused CBL-microglia immune list (`prioritized_validation_targets.csv`), by AD effect × CRE–gene link strength × AD-GWAS weight, and are summarized as a multi-layer heatmap crossing signed CRE log2FC, gene log2FC, pathway membership, link strength and AD-GWAS status (**Figure 15**). Each target names a **specific CRE to test**. Examples: CD86 (chr3-122073933-122075566, rho 0.57), IL6 (AD-GWAS, chr7-22720724-22722103), PTGS2, TNFAIP3 (AD-GWAS, chr6-137864970-137868253) in cerebellar microglia; APOE in cerebellar granule neurons (concordant CRE + gene loss); TYROBP, PTK2B and ABCA7 in HIP oligodendrocytes; CR1 in HIP inhibitory neurons; CD33 in HIP microglia; and the CHI3L1/CCL2/TLR4 NF-κB program in HIP astrocytes.
 
-![Figure 15. Prioritized targets heatmap.]({{artifact:art_5480f13a-6ac3-429f-83f6-8e6eab987082}})
+![Figure 15. Prioritized targets heatmap.](figures/prioritized_targets_heatmap.png)
 *Figure 15. Prioritized AD-risk / CRE-linked genes across region × cell-type contexts: tile = gene log2FC; dot = CRE–gene link (size = |rho|, colour = activating/repressive); bold = AD-GWAS gene.*
 
 For the two glial cell types carrying the state-resolved immune signal, targets are additionally shown per cell type with their subtype-state enhancer context (**Figures 16–17**): each figure combines the prioritized CRE-linked target genes for that cell type (panel a) with the state-resolved immune-enhancer direction (panel b), so a candidate gene can be read together with the glial state in which its program is remodeled.
 
-![Figure 16. Astrocyte targets and states.]({{artifact:art_0ea77173-7345-46c6-8e6b-8c37168e644f}})
+![Figure 16. Astrocyte targets and states.](figures/prioritized_targets_astrocyte.png)
 *Figure 16. Astrocyte — (a) prioritized CRE-linked target genes by context (fill = gene log2FC, size = CRE–gene link strength, black outline = AD-GWAS gene); (b) state-resolved immune/inflammatory enhancer direction, showing the reactive-state H3K27ac gain against homeostatic loss.*
 
-![Figure 17. Microglia targets and states.]({{artifact:art_00b5be00-9e88-4664-9caa-ab462645b412}})
+![Figure 17. Microglia targets and states.](figures/prioritized_targets_microglia.png)
 *Figure 17. Microglia — (a) prioritized CRE-linked target genes (CD86, IL6, PTGS2, PLA2G4A, CASS4, TREML4, TLR9, LTBR); (b) state-resolved direction: activated-microglial H3K27ac gain and homeostatic-microglial H3K27me3 loss (de-repression) at immune programs.*
 
 ## 6. Discussion
