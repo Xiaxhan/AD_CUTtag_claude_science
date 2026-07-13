@@ -2,6 +2,8 @@
 
 This repository contains the analysis workflow, code, selected figures, and summarized results generated for the **Built with Claude: Life Sciences Hackathon**.
 
+Please review the summary in `output/REPORT.md`
+
 ## Project overview
 
 This project uses single-nucleus CUT&Tag data from Alzheimer’s disease (AD) brain samples to characterize cell-type-specific epigenomic remodeling.
