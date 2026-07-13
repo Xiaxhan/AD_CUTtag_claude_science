@@ -1,0 +1,63 @@
+group,term,pathway,NES,padj,size
+CBL.Micro ac,Interferon Gamma Response,Hallmark:Interferon Gamma Response,-2.32193146818387,4.39562847343964e-08,108
+CBL.Micro ac,TNF-alpha Signaling via NF-kB,Hallmark:TNF-alpha Signaling via NF-kB,-2.1033478905847,2.71525948279915e-06,146
+CBL.Micro ac,TYROBP Causal Network,WikiPathways:TYROBP Causal Network WP3945,-2.22321269806862,0.000225673689329978,35
+CBL.Micro ac,IL-2/STAT5 Signaling,Hallmark:IL-2/STAT5 Signaling,-1.95847269548065,0.00028051255252609,144
+CBL.Micro ac,Allograft Rejection,Hallmark:Allograft Rejection,-1.98941664917592,0.000508413337292638,97
+CBL.Micro ac,pattern recognition receptor signaling pathway,GO_BP:pattern recognition receptor signaling pathway (GO:0002221),-1.86819520289788,0.0254684130495003,31
+CBL.Micro ac,inorganic cation transmembrane transport,GO_BP:inorganic cation transmembrane transport (GO:0098662),1.52187641155485,0.0569476903865997,149
+CBL.Micro ac,Hypoxia,Hallmark:Hypoxia,-1.52698550839587,0.0922823784957915,123
+HIP.Micro me3,Hematopoietic cell lineage,KEGG:Hematopoietic cell lineage,-1.90470254072349,0.0179124161433548,85
+HIP.Micro me3,Human papillomavirus infection,KEGG:Human papillomavirus infection,-1.64815922228607,0.0179124161433548,276
+HIP.Micro me3,Phospholipase D signaling pathway,KEGG:Phospholipase D signaling pathway,-1.80400126179144,0.0179124161433548,129
+HIP.Micro me3,Vascular smooth muscle contraction,KEGG:Vascular smooth muscle contraction,-1.82541871715039,0.0179124161433548,120
+HIP.Micro me3,sensory perception of smell,GO_BP:sensory perception of smell (GO:0007608),1.78099498499054,0.0804792692418207,96
+HIP.Micro me3,Olfactory transduction,KEGG:Olfactory transduction,1.41313851621007,0.0810260799502151,367
+HIP.Micro me3,TNF-alpha Signaling via NF-kB,Hallmark:TNF-alpha Signaling via NF-kB,-1.63686582854963,0.0917551437791825,184
+HIP.Micro me3,sensory perception of chemical stimulus,GO_BP:sensory perception of chemical stimulus (GO:0007606),1.72022396833097,0.0963799620353899,87
+HIP.Astro ac,Olfactory transduction,KEGG:Olfactory transduction,-2.08593844241609,8.71225410349254e-08,212
+HIP.Astro ac,Hypoxia,Hallmark:Hypoxia,1.71619934521276,0.00996904128898731,188
+HIP.Astro ac,cellular response to starvation,GO_BP:cellular response to starvation (GO:0009267),1.8139649355745,0.00996904128898731,150
+HIP.Astro ac,inorganic cation transmembrane transport,GO_BP:inorganic cation transmembrane transport (GO:0098662),-1.67063529675781,0.00996904128898731,264
+HIP.Astro ac,positive regulation of cytosolic calcium ion c..,GO_BP:positive regulation of cytosolic calcium ion concentration (GO:0007204),-1.82882854595557,0.00996904128898731,139
+HIP.Astro ac,TNF-alpha Signaling via NF-kB,Hallmark:TNF-alpha Signaling via NF-kB,1.69247218191707,0.0266571872100378,194
+HIP.Astro ac,sensory perception of smell,GO_BP:sensory perception of smell (GO:0007608),-1.81085246688566,0.0592253153728855,57
+HIP.ExN ac,Olfactory transduction,KEGG:Olfactory transduction,-2.26527500829305,1.90330051938985e-13,300
+HIP.ExN ac,"mRNA splicing, via spliceosome","GO_BP:mRNA splicing, via spliceosome (GO:0000398)",2.11533875767338,3.15902259204016e-09,261
+HIP.ExN ac,mRNA processing,GO_BP:mRNA processing (GO:0006397),1.99527845340666,8.88842983290918e-08,283
+HIP.ExN ac,"RNA splicing, via transesterification reaction..","GO_BP:RNA splicing, via transesterification reactions with bulged adenosine as nucleophile (GO:0000377)",2.06342495110214,1.13483946317779e-07,239
+HIP.ExN ac,Retinol metabolism,KEGG:Retinol metabolism,-1.95267383984302,0.00725149247145826,65
+HIP.ExN ac,Metapathway biotransformation Phase I and II,WikiPathways:Metapathway biotransformation Phase I and II WP702,-1.72277272319092,0.0149758688940394,175
+HIP.InN ac,Cytokine-cytokine receptor interaction,KEGG:Cytokine-cytokine receptor interaction,-1.66544749074378,0.0574786797252108,244
+HIP.InN ac,Metapathway biotransformation Phase I and II,WikiPathways:Metapathway biotransformation Phase I and II WP702,-1.81462966148773,0.0574786797252108,145
+HIP.InN ac,Allograft Rejection,WikiPathways:Allograft Rejection WP2328,-1.86913367916541,0.0875044406397888,75
+HIP.InN ac,GABA receptor Signaling,WikiPathways:GABA receptor Signaling WP4159,1.9945388114364,0.0875044406397888,29
+HIP.InN ac,Morphine addiction,KEGG:Morphine addiction,1.79609155567718,0.0875044406397888,89
+HIP.InN ac,ureteric bud morphogenesis,GO_BP:ureteric bud morphogenesis (GO:0060675),-1.95471434778938,0.090240108985702,17
+HIP.Oligo ac,Olfactory transduction,KEGG:Olfactory transduction,-2.75676693124832,2.59344198874144e-30,308
+HIP.Oligo ac,sensory perception of smell,GO_BP:sensory perception of smell (GO:0007608),-2.43166590139432,1.64871284721807e-07,82
+HIP.Oligo ac,sensory perception of chemical stimulus,GO_BP:sensory perception of chemical stimulus (GO:0007606),-2.16211780099493,0.00010273730724664,72
+HIP.Oligo ac,Retinol metabolism,KEGG:Retinol metabolism,-2.21551967598709,0.000174754393905091,58
+HIP.Oligo ac,Amyotrophic lateral sclerosis,KEGG:Amyotrophic lateral sclerosis,1.579598541736,0.00771620871240406,330
+HIP.Oligo ac,peptide cross-linking,GO_BP:peptide cross-linking (GO:0018149),-2.02811812701521,0.0149628439373802,28
+HIP.Oligo ac,Cytokine-cytokine receptor interaction,KEGG:Cytokine-cytokine receptor interaction,-1.49590659270786,0.0508448394865558,277
+HIP.Oligo ac,TYROBP Causal Network,WikiPathways:TYROBP Causal Network WP3945,-1.75539059291118,0.0597272317772873,60
+CBL.GranuleN ac,B cell proliferation,GO_BP:B cell proliferation (GO:0042100),2.5548139954645,0.000326346068826332,31
+CBL.GranuleN ac,positive regulation of peptidyl-serine phospho..,GO_BP:positive regulation of peptidyl-serine phosphorylation of STAT protein (GO:0033141),2.68285984218593,0.000326346068826332,17
+CBL.GranuleN ac,regulation of peptidyl-serine phosphorylation ..,GO_BP:regulation of peptidyl-serine phosphorylation of STAT protein (GO:0033139),2.7135906066811,0.000326346068826332,18
+CBL.GranuleN ac,response to dsRNA,GO_BP:response to dsRNA (GO:0043331),2.57467496571803,0.000955782449549771,24
+CBL.GranuleN ac,Herpes simplex virus 1 infection,KEGG:Herpes simplex virus 1 infection,-1.40371225815575,0.0182747058235636,464
+CBL.GranuleN ac,gluconeogenesis,GO_BP:gluconeogenesis (GO:0006094),-1.88201809391929,0.0194659807568712,39
+CBL.GranuleN me3,sensory perception of chemical stimulus,GO_BP:sensory perception of chemical stimulus (GO:0007606),3.56202049379588,2.50753737777732e-21,90
+CBL.GranuleN me3,sensory perception of smell,GO_BP:sensory perception of smell (GO:0007608),3.12847080888416,7.73721692933461e-17,99
+CBL.GranuleN me3,positive regulation of peptidyl-serine phospho..,GO_BP:positive regulation of peptidyl-serine phosphorylation of STAT protein (GO:0033141),3.1480512615481,3.5451510113385e-08,18
+CBL.GranuleN me3,regulation of peptidyl-serine phosphorylation ..,GO_BP:regulation of peptidyl-serine phosphorylation of STAT protein (GO:0033139),3.16208488972676,3.5451510113385e-08,19
+CBL.GranuleN me3,B cell proliferation,GO_BP:B cell proliferation (GO:0042100),3.00505476686784,6.96355923799011e-07,32
+CBL.GranuleN me3,response to dsRNA,GO_BP:response to dsRNA (GO:0043331),2.88529743798492,5.66997546084554e-06,25
+CBL.GranuleN me3,Autoimmune thyroid disease,KEGG:Autoimmune thyroid disease,2.19347566846376,0.00233256988304971,50
+CBL.GranuleN me3,monocyte chemotaxis,GO_BP:monocyte chemotaxis (GO:0002548),2.18713537826854,0.00395039653663414,40
+CBL.GranuleN me3,mRNA processing,GO_BP:mRNA processing (GO:0006397),-1.34381942176799,0.0837801528681942,287
+CBL.ExN me3,Oxytocin signaling pathway,KEGG:Oxytocin signaling pathway,1.85935841427035,0.0105399975582429,105
+CBL.ExN me3,pattern recognition receptor signaling pathway,GO_BP:pattern recognition receptor signaling pathway (GO:0002221),-2.20178684587331,0.0105399975582429,39
+CBL.ExN me3,branching involved in ureteric bud morphogenesis,GO_BP:branching involved in ureteric bud morphogenesis (GO:0001658),-2.27025531233509,0.0117306059332118,18
+CBL.ExN me3,ureteric bud morphogenesis,GO_BP:ureteric bud morphogenesis (GO:0060675),-2.21080405777268,0.0270695971183662,18

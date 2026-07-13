@@ -26,7 +26,7 @@
 - Corrections verified: Br5090 pools 2 libs into CBL; Br5106 pools 2 libs into HIP; Br5196 CBL-me3 (cortex) dropped (CBL_H3K27me3_0513_03: 9,408→8,941 in that lib).
 - Retained-cell QC distributions sit well above floors (RNA mode ~1.5-2k genes; CUT&Tag ~5-10k frags) — thresholds cleanly separate cells from empty droplets.
 
-**Artifacts.** qc_metrics.png, qc_summary_table.csv, qc_donor_composition.csv. Cache: output/cache/<lib>_qc.rds (12 files).
+**Artifacts.** qc_metrics.png, csv/qc_summary_table.csv, csv/qc_donor_composition.csv. Cache: output/cache/<lib>_qc.rds (12 files).
 
 **Next.** Step 2: de-novo RNA clustering + marker annotation per region.
 
@@ -44,7 +44,7 @@
 
 **Flag.** CBL Purkinje H3K27me3 = 135 cells across all donors → thin for per-donor pseudobulk; apply min-cell floor in DE.
 
-**Artifacts.** celltypes_HIP.png, celltypes_CBL.png, cell_annotations.csv.gz (147,228 cells; the downstream pseudobulk key), celltype_counts_by_arm.csv, {HIP,CBL}_cluster_annotation.csv. Objects: output/cluster/{HIP,CBL}_rna_annotated.rds.
+**Artifacts.** celltypes_HIP.png, celltypes_CBL.png, csv/cell_annotations.csv.gz (147,228 cells; the downstream pseudobulk key), csv/celltype_counts_by_arm.csv, {HIP,CBL}_cluster_annotation.csv. Objects: output/cluster/{HIP,CBL}_rna_annotated.rds.
 
 **Next.** Step 3: build consensus MACS2 peak set per mark + re-quantify fragments → annotated CRE atlas (Deliverable 1).
 
@@ -80,13 +80,13 @@
 - State properties coherent: active/dual promoter-enriched (6.4%/9.1%), unclear narrow (639bp) & promoter-poor (1.1%), repressed/dual broad (3.9/5.7kb).
 - AD-gene promoter states: APOE = celltype_switched (active in some types, repressed in others — matches known cell-type-specific APOE regulation); PICALM, PSEN1 = active; BIN1, CLU, MAPT, TREM2, APP = dual/transitional.
 
-**Artifacts.** CRE_regulatory_states.csv.gz (per-locus global + per-celltype state, nearest gene; >1MB ref by name), CRE_state_classification.png.
+**Artifacts.** csv/CRE_regulatory_states.csv.gz (per-locus global + per-celltype state, nearest gene; >1MB ref by name), CRE_state_classification.png.
 
 **Next.** Step 5: pseudobulk differential CRE AD vs CTL (edgeR, per cell type×region×mark; exclude thin strata; CBL-me3 n=8 underpowered).
 
 ## 2026-07-08 — Session 1 cont: pseudobulk region-label BUG fix + Step 5 DE + pooled-power analyses
 
-**Bug fixed (Decision #06b).** Pseudobulk merge had tagged region by source-library nominal folder, mis-placing reassigned donors (Br5090 HIP-LIB3 cells stayed HIP; Br5106 CBL-lib cells stayed CBL). Rebuilt merge deriving region per (donor×source-library) from cell_annotations.csv.gz. Corrected: 152 ac / 144 me3 groups (was 168/161). Br5090 CBL-only, Br5106 HIP-only. Spurious cross-region singleton strata removed. **Regenerated atlas (Deliverable 1) & CRE-state (Step 4) from corrected merge** — global state fractions essentially unchanged (unclear 36.8, repressed 19.5, dual 19.0, celltype_switched 13.6, active 11.0).
+**Bug fixed (Decision #06b).** Pseudobulk merge had tagged region by source-library nominal folder, mis-placing reassigned donors (Br5090 HIP-LIB3 cells stayed HIP; Br5106 CBL-lib cells stayed CBL). Rebuilt merge deriving region per (donor×source-library) from csv/cell_annotations.csv.gz. Corrected: 152 ac / 144 me3 groups (was 168/161). Br5090 CBL-only, Br5106 HIP-only. Spurious cross-region singleton strata removed. **Regenerated atlas (Deliverable 1) & CRE-state (Step 4) from corrected merge** — global state fractions essentially unchanged (unclear 36.8, repressed 19.5, dual 19.0, celltype_switched 13.6, active 11.0).
 
 **Step 5 DE (Decision #08).** edgeR QL, ~diagnosis (NO batch covariate — near-confounded, up to 4 levels for 8-9 donors, some 1-donor levels). Donor pseudobulk = replication unit. 29 analyzable strata (≥3 AD & ≥3 CTL, ≥25 cells). HIP 4AD/5CTL; CBL 3-4AD/4-5CTL (CBL-me3 weakest 3AD/5CTL).
 - **Single-CRE result is essentially NULL:** 1 CRE relaxed-sig genome-wide (distal H3K27ac near IMPAD1, HIP.InN, log2FC −1.38, FDR 0.02). p-value distributions at/below null; low dispersion (BCV 0.12-0.18 = good data). Cause: n=8-9 vs 70k-440k tests → near-zero single-CRE power after FDR. **Common, defensible outcome for this cohort size.**
@@ -97,7 +97,7 @@
 - **Rank-based GSEA (fgsea, gene-level rankings vs Hallmark/KEGG/GO-BP/WikiPathways): 431 significant pathway-stratum enrichments (padj<0.1).** Strongest = **cerebellar microglia H3K27ac: 45 significant immune/inflammatory pathways, ALL with reduced enhancer marking in AD** (Interferon-γ response, TYROBP/DAP12 causal network, TNF-α/NF-κB, LPS response, cytokine production, complement, IL-2/STAT5). CBL.Micro also GAINS H3K27ac at synaptic/neuronal genes (likely ambient/identity effect — interpret cautiously).
 - **Directionality — verified, corrected:** sign convention NES>0 = gained mark (GSTM1 sanity check logFC +1.41). The immune-enhancer-loss signal is SPECIFIC to CBL microglia. It does NOT replicate in HIP microglia: HIP.Micro H3K27ac has 0 significant immune pathways, and HIP.Micro H3K27me3 has only 2 significant immune pathways both with NEGATIVE NES (reduced repressive mark, i.e. de-repression tendency — NOT convergent silencing). So the finding is cell-type- AND region-specific, not a microglia-wide signature.
 
-**Artifacts.** DE_volcanoes.png (v2), DE_summary.csv (v2), DE_significant_CREs.csv (v2, 1 row), DE_results_suggestive.csv.gz (v2, ref by name), DE_genelevel_results.csv.gz, GSEA_results.csv.gz, GSEA_pathways.png. Atlas & CRE-state CSVs re-versioned from corrected merge.
+**Artifacts.** DE_volcanoes.png (v2), csv/DE_summary.csv (v2), csv/DE_significant_CREs.csv (v2, 1 row), csv/DE_results_suggestive.csv.gz (v2, ref by name), csv/DE_genelevel_results.csv.gz, csv/GSEA_results.csv.gz, GSEA_pathways.png. Atlas & CRE-state CSVs re-versioned from corrected merge.
 
 **Next.** Step 6 CRE-gene associations (peak-RNA correlation); then pathway/cell-type interpretation (Step 7 partly done via GSEA), biological model, glial subtypes, figures+report.
 
@@ -110,7 +110,7 @@
 - H3K27me3: 281,494 tested; 40,449 significant NEGATIVE (repressive) vs 11,934 positive. rho median −0.04, left-shifted. Repressive mark anti-correlates with expression.
 - AD-gene links coherent: APOE H3K27ac promoter/genic activating (rho +0.26..+0.45, 5 sig CREs) AND a H3K27me3 promoter CRE repressive (rho −0.28) — matches APOE cell-type-switched state (Step 4). APP H3K27me3 CREs repressive (rho −0.22..−0.36, 7 sig CREs), H3K27ac activating. ABCA7 promoter H3K27ac activating.
 
-**Artifacts.** CRE_gene_associations.csv.gz (737,433 links: peak, gene, mark, context, dist_to_tss, rho, fdr, link-class; >1MB ref by name), CRE_gene_associations.png (rho density by mark; directional link counts; APOE enhancer-expression scatter).
+**Artifacts.** csv/CRE_gene_associations.csv.gz (737,433 links: peak, gene, mark, context, dist_to_tss, rho, fdr, link-class; >1MB ref by name), CRE_gene_associations.png (rho density by mark; directional link counts; APOE enhancer-expression scatter).
 
 **Next.** Step 7 cell-type pathway interpretation (extend GSEA), then biological model + prioritized validation targets, glial subtypes, figures+report.
 
@@ -126,7 +126,7 @@
 
 **Interpretation.** The dominant, most coherent AD signal = loss of active-enhancer (H3K27ac) marking at microglial immune programs, strongest in cerebellum. Neurons (HIP.ExN) and oligodendrocytes also carry substantial H3K27ac remodeling. Repressive-mark (H3K27me3) remodeling is concentrated in CBL granule neurons (gain).
 
-**Artifacts.** celltype_interpretation.png (burden barplot + theme×celltype direction heatmap), celltype_remodeling_burden.csv, celltype_pathway_themes.csv.
+**Artifacts.** celltype_interpretation.png (burden barplot + theme×celltype direction heatmap), csv/celltype_remodeling_burden.csv, csv/celltype_pathway_themes.csv.
 
 **Next.** Biological model + prioritized validation targets (Deliverable 5, Q5), glial subtypes, figures+report.
 
@@ -136,7 +136,7 @@
 
 **Prioritized validation targets (Deliverable 5).** Ranked CBL-microglia immune leading-edge genes (203) by AD effect (gene-level H3K27ac loss) × best activating CRE-gene link × AD-GWAS relevance. Top 15 each carry a SPECIFIC CRE coordinate to test. Top: CD86 (rho 0.57, chr3-122073933-122075566), BATF3, CYTL1, IL6 (AD-GWAS), PTGS2/COX2, NRP1, LTBR, PLA2G4A, MAP3K8, TNFAIP3 (AD-GWAS). All predicted to LOSE enhancer activity in AD cerebellar microglia.
 
-**Artifacts.** biological_model.png (state landscape + remodeling burden + target dotplot), prioritized_validation_targets.csv (top 15 with CRE coords), validation_targets_microglia_immune.csv (full 203-gene ranking).
+**Artifacts.** biological_model.png (state landscape + remodeling burden + target dotplot), csv/prioritized_validation_targets.csv (top 15 with CRE coords), csv/validation_targets_microglia_immune.csv (full 203-gene ranking).
 
 **Next.** Glial subtype clustering + preferential-remodeling sub-analysis, then figures + REPORT.md.
 
@@ -153,7 +153,7 @@
 
 **Interpretation (KEY).** At this cohort size, the AD-associated signal is in the CRE/enhancer LANDSCAPE WITHIN glial cell types, NOT in gross subtype-proportion shifts. Microglial state structure is intact; astrocytes show a non-significant trend toward more reactive score in AD, congruent with (but not proving) the HIP.Astro NF-κB H3K27ac gain. Preferential remodeling of a specific subtype could not be established with confidence — flagged as underpowered, hypothesis-level.
 
-**Artifacts.** glial_subtypes.png (microglia state UMAP + per-donor reactive score AD vs CTL for 3 glial types), glial_subtype_states.csv, glial_state_AD_vs_CTL.csv.
+**Artifacts.** glial_subtypes.png (microglia state UMAP + per-donor reactive score AD vs CTL for 3 glial types), csv/glial_subtype_states.csv, csv/glial_state_AD_vs_CTL.csv.
 
 **Next.** Figures compilation + REPORT.md + plain-English methods.
 
@@ -162,14 +162,14 @@
 **User feedback (4 points), all addressed.**
 1. Frame reduced H3K27ac at inflammatory programs more cautiously — as region-specific dampening / compensation / impaired immune responsiveness, NOT "silencing." → Adopted cautious language.
 2. Hippocampal remodeling under-discussed; evaluate HIP as a major AD axis (HIP more AD-vulnerable than CBL). → Re-examined: HIP.ExN (79 sig) and HIP.Oligo (69) are the 2nd/3rd highest remodeling burden and ALSO show immune-enhancer LOSS (T-cell/LPS/TYROBP, negative NES). **HIP.Astro GAINS H3K27ac at TNF-α/NF-κB (+1.69)** with leading edge = CHI3L1/YKL-40, CCL2, TLR4/6/7, TNFRSF1A, RIPK1/2, NFKB2 = classic reactive astrogliosis in the vulnerable region. HIP is now a co-equal axis in the model.
-3. Per-region×celltype prioritized targets. → Built prioritized_targets_by_context.csv (top 10 per each of 9 remodeling contexts).
+3. Per-region×celltype prioritized targets. → Built csv/prioritized_targets_by_context.csv (top 10 per each of 9 remodeling contexts).
 4. Multi-layer heatmap of AD/CRE-linked genes × context. → prioritized_targets_heatmap.png (tile=gene log2FC, dot=CRE-gene link size/direction, bold=AD-GWAS).
 
 **Also caught: sex-chromosome & CNV artifacts** in leading edges (USP17L family, Y-genes UTY/NLGN4Y/RPS4Y, GSTM1/GSTT1, HLA, immunoglobulin/OR/LILR/KIR loci, UGT2B, C4). Filtered out before ranking — these reflect donor sex imbalance / germline CNV, not AD regulation. 50+ genes removed.
 
 **Revised model (two-axis, cautious).** AD is associated with cell-type- and region-specific CRE remodeling, not genome-wide single-CRE change. Two AD-relevant axes: (i) HIPPOCAMPUS (AD-vulnerable) — reactive-astrocyte H3K27ac GAIN at NF-κB/TLR inflammatory genes (CHI3L1/CCL2/TLR4), plus H3K27ac loss at immune programs in ExN & oligodendrocytes; (ii) CEREBELLUM — microglial H3K27ac reduction at immune/inflammatory enhancers (IFN-γ, TYROBP, TNF-α), interpreted cautiously as regional immune dampening / altered responsiveness rather than silencing. 21 AD-GWAS genes appear in leading edges across contexts (TREM2, TYROBP, SPI1, INPP5D, PLCG2, CD33, APOE, CR1, PTK2B, ABCA7, CASS4, IL6, TNFAIP3, MEF2C, SORL1, APP, ADAM10, EPHA1...).
 
-**Artifacts (revised).** biological_model.png v2 (both regions, immune direction by celltype), prioritized_targets_heatmap.png, prioritized_targets_by_context.csv, prioritized_validation_targets.csv (CBL-micro top15 retained).
+**Artifacts (revised).** biological_model.png v2 (both regions, immune direction by celltype), prioritized_targets_heatmap.png, csv/prioritized_targets_by_context.csv, csv/prioritized_validation_targets.csv (CBL-micro top15 retained).
 
 **Next.** Glial subtype clustering + preferential-remodeling sub-analysis, then figures + REPORT.md.
 

@@ -1,0 +1,111 @@
+[CBL_H3K27ac_0506] mark=H3K27ac  11865 QC cells  frag=fragments.tsv.gz
+[W::hts_idx_load3] The index file is older than the data file: /Users/xhan/Desktop/project_data_claude/AD_CutTag_CRE/input/CBL/H3K27ac/0506_CBL01/DNA/fragments.tsv.gz.tbi
+[W::hts_idx_load3] The index file is older than the data file: /Users/xhan/Desktop/project_data_claude/AD_CutTag_CRE/input/CBL/H3K27ac/0506_CBL01/DNA/fragments.tsv.gz.tbi
+[W::hts_idx_load3] The index file is older than the data file: /Users/xhan/Desktop/project_data_claude/AD_CutTag_CRE/input/CBL/H3K27ac/0506_CBL01/DNA/fragments.tsv.gz.tbi
+[W::hts_idx_load3] The index file is older than the data file: /Users/xhan/Desktop/project_data_claude/AD_CutTag_CRE/input/CBL/H3K27ac/0506_CBL01/DNA/fragments.tsv.gz.tbi
+[W::hts_idx_load3] The index file is older than the data file: /Users/xhan/Desktop/project_data_claude/AD_CutTag_CRE/input/CBL/H3K27ac/0506_CBL01/DNA/fragments.tsv.gz.tbi
+[W::hts_idx_load3] The index file is older than the data file: /Users/xhan/Desktop/project_data_claude/AD_CutTag_CRE/input/CBL/H3K27ac/0506_CBL01/DNA/fragments.tsv.gz.tbi
+[W::hts_idx_load3] The index file is older than the data file: /Users/xhan/Desktop/project_data_claude/AD_CutTag_CRE/input/CBL/H3K27ac/0506_CBL01/DNA/fragments.tsv.gz.tbi
+[W::hts_idx_load3] The index file is older than the data file: /Users/xhan/Desktop/project_data_claude/AD_CutTag_CRE/input/CBL/H3K27ac/0506_CBL01/DNA/fragments.tsv.gz.tbi
+[W::hts_idx_load3] The index file is older than the data file: /Users/xhan/Desktop/project_data_claude/AD_CutTag_CRE/input/CBL/H3K27ac/0506_CBL01/DNA/fragments.tsv.gz.tbi
+[W::hts_idx_load3] The index file is older than the data file: /Users/xhan/Desktop/project_data_claude/AD_CutTag_CRE/input/CBL/H3K27ac/0506_CBL01/DNA/fragments.tsv.gz.tbi
+[W::hts_idx_load3] The index file is older than the data file: /Users/xhan/Desktop/project_data_claude/AD_CutTag_CRE/input/CBL/H3K27ac/0506_CBL01/DNA/fragments.tsv.gz.tbi
+[W::hts_idx_load3] The index file is older than the data file: /Users/xhan/Desktop/project_data_claude/AD_CutTag_CRE/input/CBL/H3K27ac/0506_CBL01/DNA/fragments.tsv.gz.tbi
+[W::hts_idx_load3] The index file is older than the data file: /Users/xhan/Desktop/project_data_claude/AD_CutTag_CRE/input/CBL/H3K27ac/0506_CBL01/DNA/fragments.tsv.gz.tbi
+[W::hts_idx_load3] The index file is older than the data file: /Users/xhan/Desktop/project_data_claude/AD_CutTag_CRE/input/CBL/H3K27ac/0506_CBL01/DNA/fragments.tsv.gz.tbi
+[W::hts_idx_load3] The index file is older than the data file: /Users/xhan/Desktop/project_data_claude/AD_CutTag_CRE/input/CBL/H3K27ac/0506_CBL01/DNA/fragments.tsv.gz.tbi
+[W::hts_idx_load3] The index file is older than the data file: /Users/xhan/Desktop/project_data_claude/AD_CutTag_CRE/input/CBL/H3K27ac/0506_CBL01/DNA/fragments.tsv.gz.tbi
+[W::hts_idx_load3] The index file is older than the data file: /Users/xhan/Desktop/project_data_claude/AD_CutTag_CRE/input/CBL/H3K27ac/0506_CBL01/DNA/fragments.tsv.gz.tbi
+[W::hts_idx_load3] The index file is older than the data file: /Users/xhan/Desktop/project_data_claude/AD_CutTag_CRE/input/CBL/H3K27ac/0506_CBL01/DNA/fragments.tsv.gz.tbi
+[W::hts_idx_load3] The index file is older than the data file: /Users/xhan/Desktop/project_data_claude/AD_CutTag_CRE/input/CBL/H3K27ac/0506_CBL01/DNA/fragments.tsv.gz.tbi
+[W::hts_idx_load3] The index file is older than the data file: /Users/xhan/Desktop/project_data_claude/AD_CutTag_CRE/input/CBL/H3K27ac/0506_CBL01/DNA/fragments.tsv.gz.tbi
+[W::hts_idx_load3] The index file is older than the data file: /Users/xhan/Desktop/project_data_claude/AD_CutTag_CRE/input/CBL/H3K27ac/0506_CBL01/DNA/fragments.tsv.gz.tbi
+[W::hts_idx_load3] The index file is older than the data file: /Users/xhan/Desktop/project_data_claude/AD_CutTag_CRE/input/CBL/H3K27ac/0506_CBL01/DNA/fragments.tsv.gz.tbi
+[W::hts_idx_load3] The index file is older than the data file: /Users/xhan/Desktop/project_data_claude/AD_CutTag_CRE/input/CBL/H3K27ac/0506_CBL01/DNA/fragments.tsv.gz.tbi
+[W::hts_idx_load3] The index file is older than the data file: /Users/xhan/Desktop/project_data_claude/AD_CutTag_CRE/input/CBL/H3K27ac/0506_CBL01/DNA/fragments.tsv.gz.tbi
+[W::hts_idx_load3] The index file is older than the data file: /Users/xhan/Desktop/project_data_claude/AD_CutTag_CRE/input/CBL/H3K27ac/0506_CBL01/DNA/fragments.tsv.gz.tbi
+[W::hts_idx_load3] The index file is older than the data file: /Users/xhan/Desktop/project_data_claude/AD_CutTag_CRE/input/CBL/H3K27ac/0506_CBL01/DNA/fragments.tsv.gz.tbi
+[W::hts_idx_load3] The index file is older than the data file: /Users/xhan/Desktop/project_data_claude/AD_CutTag_CRE/input/CBL/H3K27ac/0506_CBL01/DNA/fragments.tsv.gz.tbi
+[W::hts_idx_load3] The index file is older than the data file: /Users/xhan/Desktop/project_data_claude/AD_CutTag_CRE/input/CBL/H3K27ac/0506_CBL01/DNA/fragments.tsv.gz.tbi
+[W::hts_idx_load3] The index file is older than the data file: /Users/xhan/Desktop/project_data_claude/AD_CutTag_CRE/input/CBL/H3K27ac/0506_CBL01/DNA/fragments.tsv.gz.tbi
+[W::hts_idx_load3] The index file is older than the data file: /Users/xhan/Desktop/project_data_claude/AD_CutTag_CRE/input/CBL/H3K27ac/0506_CBL01/DNA/fragments.tsv.gz.tbi
+[W::hts_idx_load3] The index file is older than the data file: /Users/xhan/Desktop/project_data_claude/AD_CutTag_CRE/input/CBL/H3K27ac/0506_CBL01/DNA/fragments.tsv.gz.tbi
+[W::hts_idx_load3] The index file is older than the data file: /Users/xhan/Desktop/project_data_claude/AD_CutTag_CRE/input/CBL/H3K27ac/0506_CBL01/DNA/fragments.tsv.gz.tbi
+[W::hts_idx_load3] The index file is older than the data file: /Users/xhan/Desktop/project_data_claude/AD_CutTag_CRE/input/CBL/H3K27ac/0506_CBL01/DNA/fragments.tsv.gz.tbi
+[W::hts_idx_load3] The index file is older than the data file: /Users/xhan/Desktop/project_data_claude/AD_CutTag_CRE/input/CBL/H3K27ac/0506_CBL01/DNA/fragments.tsv.gz.tbi
+[W::hts_idx_load3] The index file is older than the data file: /Users/xhan/Desktop/project_data_claude/AD_CutTag_CRE/input/CBL/H3K27ac/0506_CBL01/DNA/fragments.tsv.gz.tbi
+[W::hts_idx_load3] The index file is older than the data file: /Users/xhan/Desktop/project_data_claude/AD_CutTag_CRE/input/CBL/H3K27ac/0506_CBL01/DNA/fragments.tsv.gz.tbi
+[W::hts_idx_load3] The index file is older than the data file: /Users/xhan/Desktop/project_data_claude/AD_CutTag_CRE/input/CBL/H3K27ac/0506_CBL01/DNA/fragments.tsv.gz.tbi
+[W::hts_idx_load3] The index file is older than the data file: /Users/xhan/Desktop/project_data_claude/AD_CutTag_CRE/input/CBL/H3K27ac/0506_CBL01/DNA/fragments.tsv.gz.tbi
+[W::hts_idx_load3] The index file is older than the data file: /Users/xhan/Desktop/project_data_claude/AD_CutTag_CRE/input/CBL/H3K27ac/0506_CBL01/DNA/fragments.tsv.gz.tbi
+[W::hts_idx_load3] The index file is older than the data file: /Users/xhan/Desktop/project_data_claude/AD_CutTag_CRE/input/CBL/H3K27ac/0506_CBL01/DNA/fragments.tsv.gz.tbi
+[W::hts_idx_load3] The index file is older than the data file: /Users/xhan/Desktop/project_data_claude/AD_CutTag_CRE/input/CBL/H3K27ac/0506_CBL01/DNA/fragments.tsv.gz.tbi
+[W::hts_idx_load3] The index file is older than the data file: /Users/xhan/Desktop/project_data_claude/AD_CutTag_CRE/input/CBL/H3K27ac/0506_CBL01/DNA/fragments.tsv.gz.tbi
+[W::hts_idx_load3] The index file is older than the data file: /Users/xhan/Desktop/project_data_claude/AD_CutTag_CRE/input/CBL/H3K27ac/0506_CBL01/DNA/fragments.tsv.gz.tbi
+[W::hts_idx_load3] The index file is older than the data file: /Users/xhan/Desktop/project_data_claude/AD_CutTag_CRE/input/CBL/H3K27ac/0506_CBL01/DNA/fragments.tsv.gz.tbi
+[W::hts_idx_load3] The index file is older than the data file: /Users/xhan/Desktop/project_data_claude/AD_CutTag_CRE/input/CBL/H3K27ac/0506_CBL01/DNA/fragments.tsv.gz.tbi
+[W::hts_idx_load3] The index file is older than the data file: /Users/xhan/Desktop/project_data_claude/AD_CutTag_CRE/input/CBL/H3K27ac/0506_CBL01/DNA/fragments.tsv.gz.tbi
+[W::hts_idx_load3] The index file is older than the data file: /Users/xhan/Desktop/project_data_claude/AD_CutTag_CRE/input/CBL/H3K27ac/0506_CBL01/DNA/fragments.tsv.gz.tbi
+[W::hts_idx_load3] The index file is older than the data file: /Users/xhan/Desktop/project_data_claude/AD_CutTag_CRE/input/CBL/H3K27ac/0506_CBL01/DNA/fragments.tsv.gz.tbi
+[W::hts_idx_load3] The index file is older than the data file: /Users/xhan/Desktop/project_data_claude/AD_CutTag_CRE/input/CBL/H3K27ac/0506_CBL01/DNA/fragments.tsv.gz.tbi
+[W::hts_idx_load3] The index file is older than the data file: /Users/xhan/Desktop/project_data_claude/AD_CutTag_CRE/input/CBL/H3K27ac/0506_CBL01/DNA/fragments.tsv.gz.tbi
+[W::hts_idx_load3] The index file is older than the data file: /Users/xhan/Desktop/project_data_claude/AD_CutTag_CRE/input/CBL/H3K27ac/0506_CBL01/DNA/fragments.tsv.gz.tbi
+[W::hts_idx_load3] The index file is older than the data file: /Users/xhan/Desktop/project_data_claude/AD_CutTag_CRE/input/CBL/H3K27ac/0506_CBL01/DNA/fragments.tsv.gz.tbi
+[W::hts_idx_load3] The index file is older than the data file: /Users/xhan/Desktop/project_data_claude/AD_CutTag_CRE/input/CBL/H3K27ac/0506_CBL01/DNA/fragments.tsv.gz.tbi
+[W::hts_idx_load3] The index file is older than the data file: /Users/xhan/Desktop/project_data_claude/AD_CutTag_CRE/input/CBL/H3K27ac/0506_CBL01/DNA/fragments.tsv.gz.tbi
+[W::hts_idx_load3] The index file is older than the data file: /Users/xhan/Desktop/project_data_claude/AD_CutTag_CRE/input/CBL/H3K27ac/0506_CBL01/DNA/fragments.tsv.gz.tbi
+[W::hts_idx_load3] The index file is older than the data file: /Users/xhan/Desktop/project_data_claude/AD_CutTag_CRE/input/CBL/H3K27ac/0506_CBL01/DNA/fragments.tsv.gz.tbi
+[W::hts_idx_load3] The index file is older than the data file: /Users/xhan/Desktop/project_data_claude/AD_CutTag_CRE/input/CBL/H3K27ac/0506_CBL01/DNA/fragments.tsv.gz.tbi
+[W::hts_idx_load3] The index file is older than the data file: /Users/xhan/Desktop/project_data_claude/AD_CutTag_CRE/input/CBL/H3K27ac/0506_CBL01/DNA/fragments.tsv.gz.tbi
+[W::hts_idx_load3] The index file is older than the data file: /Users/xhan/Desktop/project_data_claude/AD_CutTag_CRE/input/CBL/H3K27ac/0506_CBL01/DNA/fragments.tsv.gz.tbi
+[W::hts_idx_load3] The index file is older than the data file: /Users/xhan/Desktop/project_data_claude/AD_CutTag_CRE/input/CBL/H3K27ac/0506_CBL01/DNA/fragments.tsv.gz.tbi
+[W::hts_idx_load3] The index file is older than the data file: /Users/xhan/Desktop/project_data_claude/AD_CutTag_CRE/input/CBL/H3K27ac/0506_CBL01/DNA/fragments.tsv.gz.tbi
+[W::hts_idx_load3] The index file is older than the data file: /Users/xhan/Desktop/project_data_claude/AD_CutTag_CRE/input/CBL/H3K27ac/0506_CBL01/DNA/fragments.tsv.gz.tbi
+[W::hts_idx_load3] The index file is older than the data file: /Users/xhan/Desktop/project_data_claude/AD_CutTag_CRE/input/CBL/H3K27ac/0506_CBL01/DNA/fragments.tsv.gz.tbi
+[W::hts_idx_load3] The index file is older than the data file: /Users/xhan/Desktop/project_data_claude/AD_CutTag_CRE/input/CBL/H3K27ac/0506_CBL01/DNA/fragments.tsv.gz.tbi
+[W::hts_idx_load3] The index file is older than the data file: /Users/xhan/Desktop/project_data_claude/AD_CutTag_CRE/input/CBL/H3K27ac/0506_CBL01/DNA/fragments.tsv.gz.tbi
+[W::hts_idx_load3] The index file is older than the data file: /Users/xhan/Desktop/project_data_claude/AD_CutTag_CRE/input/CBL/H3K27ac/0506_CBL01/DNA/fragments.tsv.gz.tbi
+[W::hts_idx_load3] The index file is older than the data file: /Users/xhan/Desktop/project_data_claude/AD_CutTag_CRE/input/CBL/H3K27ac/0506_CBL01/DNA/fragments.tsv.gz.tbi
+[W::hts_idx_load3] The index file is older than the data file: /Users/xhan/Desktop/project_data_claude/AD_CutTag_CRE/input/CBL/H3K27ac/0506_CBL01/DNA/fragments.tsv.gz.tbi
+[W::hts_idx_load3] The index file is older than the data file: /Users/xhan/Desktop/project_data_claude/AD_CutTag_CRE/input/CBL/H3K27ac/0506_CBL01/DNA/fragments.tsv.gz.tbi
+[W::hts_idx_load3] The index file is older than the data file: /Users/xhan/Desktop/project_data_claude/AD_CutTag_CRE/input/CBL/H3K27ac/0506_CBL01/DNA/fragments.tsv.gz.tbi
+[W::hts_idx_load3] The index file is older than the data file: /Users/xhan/Desktop/project_data_claude/AD_CutTag_CRE/input/CBL/H3K27ac/0506_CBL01/DNA/fragments.tsv.gz.tbi
+[W::hts_idx_load3] The index file is older than the data file: /Users/xhan/Desktop/project_data_claude/AD_CutTag_CRE/input/CBL/H3K27ac/0506_CBL01/DNA/fragments.tsv.gz.tbi
+[W::hts_idx_load3] The index file is older than the data file: /Users/xhan/Desktop/project_data_claude/AD_CutTag_CRE/input/CBL/H3K27ac/0506_CBL01/DNA/fragments.tsv.gz.tbi
+[W::hts_idx_load3] The index file is older than the data file: /Users/xhan/Desktop/project_data_claude/AD_CutTag_CRE/input/CBL/H3K27ac/0506_CBL01/DNA/fragments.tsv.gz.tbi
+[W::hts_idx_load3] The index file is older than the data file: /Users/xhan/Desktop/project_data_claude/AD_CutTag_CRE/input/CBL/H3K27ac/0506_CBL01/DNA/fragments.tsv.gz.tbi
+[W::hts_idx_load3] The index file is older than the data file: /Users/xhan/Desktop/project_data_claude/AD_CutTag_CRE/input/CBL/H3K27ac/0506_CBL01/DNA/fragments.tsv.gz.tbi
+[W::hts_idx_load3] The index file is older than the data file: /Users/xhan/Desktop/project_data_claude/AD_CutTag_CRE/input/CBL/H3K27ac/0506_CBL01/DNA/fragments.tsv.gz.tbi
+[W::hts_idx_load3] The index file is older than the data file: /Users/xhan/Desktop/project_data_claude/AD_CutTag_CRE/input/CBL/H3K27ac/0506_CBL01/DNA/fragments.tsv.gz.tbi
+[W::hts_idx_load3] The index file is older than the data file: /Users/xhan/Desktop/project_data_claude/AD_CutTag_CRE/input/CBL/H3K27ac/0506_CBL01/DNA/fragments.tsv.gz.tbi
+[W::hts_idx_load3] The index file is older than the data file: /Users/xhan/Desktop/project_data_claude/AD_CutTag_CRE/input/CBL/H3K27ac/0506_CBL01/DNA/fragments.tsv.gz.tbi
+[W::hts_idx_load3] The index file is older than the data file: /Users/xhan/Desktop/project_data_claude/AD_CutTag_CRE/input/CBL/H3K27ac/0506_CBL01/DNA/fragments.tsv.gz.tbi
+[W::hts_idx_load3] The index file is older than the data file: /Users/xhan/Desktop/project_data_claude/AD_CutTag_CRE/input/CBL/H3K27ac/0506_CBL01/DNA/fragments.tsv.gz.tbi
+[W::hts_idx_load3] The index file is older than the data file: /Users/xhan/Desktop/project_data_claude/AD_CutTag_CRE/input/CBL/H3K27ac/0506_CBL01/DNA/fragments.tsv.gz.tbi
+[W::hts_idx_load3] The index file is older than the data file: /Users/xhan/Desktop/project_data_claude/AD_CutTag_CRE/input/CBL/H3K27ac/0506_CBL01/DNA/fragments.tsv.gz.tbi
+[W::hts_idx_load3] The index file is older than the data file: /Users/xhan/Desktop/project_data_claude/AD_CutTag_CRE/input/CBL/H3K27ac/0506_CBL01/DNA/fragments.tsv.gz.tbi
+[W::hts_idx_load3] The index file is older than the data file: /Users/xhan/Desktop/project_data_claude/AD_CutTag_CRE/input/CBL/H3K27ac/0506_CBL01/DNA/fragments.tsv.gz.tbi
+   groups: 36  peaks: 859854 
+[CBL_H3K27ac_0513_02] mark=H3K27ac  10157 QC cells  frag=fragments.tsv.gz
+   groups: 24  peaks: 859854 
+[CBL_H3K27ac_0513_03] mark=H3K27ac  12696 QC cells  frag=fragments.tsv.gz
+   groups: 27  peaks: 859854 
+[CBL_H3K27me3_0506] mark=H3K27me3  10625 QC cells  frag=fragments.tsv.gz
+   groups: 36  peaks: 567404 
+[CBL_H3K27me3_0513_02] mark=H3K27me3  11146 QC cells  frag=fragments.tsv.gz
+   groups: 27  peaks: 567404 
+[CBL_H3K27me3_0513_03] mark=H3K27me3  8941 QC cells  frag=fragments.tsv.gz
+   groups: 17  peaks: 567404 
+[HIP_H3K27ac_LIB1] mark=H3K27ac  21722 QC cells  frag=fragments.tsv.gz
+   groups: 24  peaks: 859854 
+[HIP_H3K27ac_LIB2] mark=H3K27ac  16058 QC cells  frag=fragments.tsv.gz
+   groups: 24  peaks: 859854 
+[HIP_H3K27ac_LIB3] mark=H3K27ac  11516 QC cells  frag=fragments.tsv.gz
+   groups: 33  peaks: 859854 
+[HIP_H3K27me3_LIB1] mark=H3K27me3  16008 QC cells  frag=fragments.tsv.gz
+   groups: 24  peaks: 567404 
+[HIP_H3K27me3_LIB2] mark=H3K27me3  7512 QC cells  frag=fragments.tsv.gz
+   groups: 24  peaks: 567404 
+[HIP_H3K27me3_LIB3] mark=H3K27me3  8982 QC cells  frag=fragments.tsv.gz
+   groups: 33  peaks: 567404 
+DONE requant

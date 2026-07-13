@@ -1,0 +1,2 @@
+peak,nearest_gene,context,dist_to_tss,logFC,logCPM,F,PValue,FDR,stratum,mark,region,celltype,nAD,nCTL,batch_adj,n_tested
+chr8-57209269-57210886,IMPAD1,distal,216232,-1.38116633377812,4.79863602811265,25.6040535372695,7.00867067463042e-07,0.0208010336952356,HIP.InN,H3K27ac,HIP,InN,4,5,FALSE,29679

@@ -21,3 +21,6 @@ output/Rlib/
 
 
 
+
+output/csv/DE_results_all.csv.gz
+output/csv/DE_results_annotated.csv.gz

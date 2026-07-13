@@ -1,0 +1,17 @@
+stratum,mark,n_sig,region,celltype
+CBL.Micro,H3K27ac,148,CBL,Micro
+HIP.ExN,H3K27ac,79,HIP,ExN
+HIP.Oligo,H3K27ac,69,HIP,Oligo
+CBL.GranuleN,H3K27me3,32,CBL,GranuleN
+CBL.GranuleN,H3K27ac,29,CBL,GranuleN
+HIP.Astro,H3K27ac,28,HIP,Astro
+HIP.InN,H3K27ac,17,HIP,InN
+HIP.Micro,H3K27me3,12,HIP,Micro
+CBL.ExN,H3K27me3,5,CBL,ExN
+CBL.Astro,H3K27me3,4,CBL,Astro
+CBL.OPC,H3K27ac,2,CBL,OPC
+CBL.Oligo,H3K27ac,2,CBL,Oligo
+CBL.Purkinje,H3K27ac,1,CBL,Purkinje
+HIP.OPC,H3K27me3,1,HIP,OPC
+HIP.Oligo,H3K27me3,1,HIP,Oligo
+HIP.Vascular,H3K27me3,1,HIP,Vascular
